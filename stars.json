@@ -1,37 +1,37 @@
 [
   {
     "full_name": "gcc-mirror/gcc",
-    "stargazers_count": 6341,
+    "stargazers_count": 6349,
     "open_issues_count": 30,
-    "forks_count": 3354
+    "forks_count": 3358
   },
   {
     "full_name": "samtay/so",
-    "stargazers_count": 979,
+    "stargazers_count": 980,
     "open_issues_count": 6,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "rust-lang/book",
-    "stargazers_count": 9344,
-    "open_issues_count": 139,
+    "stargazers_count": 9361,
+    "open_issues_count": 135,
     "forks_count": 2305
   },
   {
     "full_name": "rust-lang/regex",
-    "stargazers_count": 2286,
+    "stargazers_count": 2287,
     "open_issues_count": 74,
     "forks_count": 325
   },
   {
     "full_name": "luong-komorebi/Awesome-Linux-Software",
-    "stargazers_count": 17491,
-    "open_issues_count": 29,
-    "forks_count": 1778
+    "stargazers_count": 17494,
+    "open_issues_count": 30,
+    "forks_count": 1777
   },
   {
     "full_name": "veggiemonk/awesome-docker",
-    "stargazers_count": 21851,
+    "stargazers_count": 21859,
     "open_issues_count": 2,
     "forks_count": 2588
   },
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 47452,
-    "open_issues_count": 692,
-    "forks_count": 3510
+    "stargazers_count": 47478,
+    "open_issues_count": 695,
+    "forks_count": 3506
   },
   {
     "full_name": "EbTech/rust-algorithms",
-    "stargazers_count": 3078,
+    "stargazers_count": 3079,
     "open_issues_count": 4,
     "forks_count": 196
   },
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "MTrajK/coding-problems",
-    "stargazers_count": 2621,
+    "stargazers_count": 2623,
     "open_issues_count": 0,
-    "forks_count": 522
+    "forks_count": 523
   },
   {
     "full_name": "adafruit/circuitpython",
-    "stargazers_count": 3005,
-    "open_issues_count": 526,
-    "forks_count": 778
+    "stargazers_count": 3007,
+    "open_issues_count": 527,
+    "forks_count": 777
   },
   {
     "full_name": "learn-anything/books",
-    "stargazers_count": 3591,
+    "stargazers_count": 3595,
     "open_issues_count": 5,
     "forks_count": 545
   },
@@ -81,25 +81,25 @@
     "full_name": "30-seconds/30-seconds-of-interviews",
     "stargazers_count": 9902,
     "open_issues_count": 17,
-    "forks_count": 886
+    "forks_count": 887
   },
   {
     "full_name": "learn-anything/learn-anything",
-    "stargazers_count": 13972,
+    "stargazers_count": 13978,
     "open_issues_count": 5,
     "forks_count": 922
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 95932,
+    "stargazers_count": 95982,
     "open_issues_count": 0,
-    "forks_count": 10143
+    "forks_count": 10149
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 36394,
+    "stargazers_count": 36749,
     "open_issues_count": 3,
-    "forks_count": 7084
+    "forks_count": 7149
   },
   {
     "full_name": "darrikonn/td-cli",
@@ -109,45 +109,45 @@
   },
   {
     "full_name": "mpv-player/mpv",
-    "stargazers_count": 18742,
+    "stargazers_count": 18769,
     "open_issues_count": 849,
-    "forks_count": 2290
+    "forks_count": 2292
   },
   {
     "full_name": "TheAlgorithms/C",
-    "stargazers_count": 13585,
-    "open_issues_count": 9,
-    "forks_count": 3468
+    "stargazers_count": 13605,
+    "open_issues_count": 10,
+    "forks_count": 3475
   },
   {
     "full_name": "qbittorrent/qBittorrent",
-    "stargazers_count": 15851,
-    "open_issues_count": 2797,
-    "forks_count": 2764
+    "stargazers_count": 15870,
+    "open_issues_count": 2798,
+    "forks_count": 2769
   },
   {
     "full_name": "sqlitebrowser/sqlitebrowser",
-    "stargazers_count": 16543,
-    "open_issues_count": 569,
-    "forks_count": 1850
+    "stargazers_count": 16546,
+    "open_issues_count": 571,
+    "forks_count": 1851
   },
   {
     "full_name": "fffaraz/awesome-cpp",
-    "stargazers_count": 37587,
-    "open_issues_count": 405,
-    "forks_count": 6259
+    "stargazers_count": 37623,
+    "open_issues_count": 406,
+    "forks_count": 6262
   },
   {
     "full_name": "cs01/gdbgui",
-    "stargazers_count": 8610,
+    "stargazers_count": 8615,
     "open_issues_count": 136,
     "forks_count": 513
   },
   {
     "full_name": "leereilly/swot",
-    "stargazers_count": 1036,
+    "stargazers_count": 1037,
     "open_issues_count": 795,
-    "forks_count": 13614
+    "forks_count": 13625
   },
   {
     "full_name": "koding/koding",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "VSCodium/vscodium",
-    "stargazers_count": 15963,
-    "open_issues_count": 103,
-    "forks_count": 685
+    "stargazers_count": 15978,
+    "open_issues_count": 104,
+    "forks_count": 686
   },
   {
     "full_name": "sumatrapdfreader/sumatrapdf",
-    "stargazers_count": 8280,
-    "open_issues_count": 407,
-    "forks_count": 1417
+    "stargazers_count": 8299,
+    "open_issues_count": 398,
+    "forks_count": 1419
   },
   {
     "full_name": "santinic/how2",
-    "stargazers_count": 5496,
+    "stargazers_count": 5497,
     "open_issues_count": 41,
     "forks_count": 177
   }
