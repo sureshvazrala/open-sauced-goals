@@ -1,105 +1,105 @@
 [
   {
     "full_name": "gcc-mirror/gcc",
-    "stargazers_count": 6353,
+    "stargazers_count": 6361,
     "open_issues_count": 30,
-    "forks_count": 3359
+    "forks_count": 3362
   },
   {
     "full_name": "samtay/so",
-    "stargazers_count": 982,
+    "stargazers_count": 986,
     "open_issues_count": 6,
     "forks_count": 19
   },
   {
     "full_name": "rust-lang/book",
-    "stargazers_count": 9365,
-    "open_issues_count": 138,
-    "forks_count": 2308
+    "stargazers_count": 9385,
+    "open_issues_count": 130,
+    "forks_count": 2316
   },
   {
     "full_name": "rust-lang/regex",
-    "stargazers_count": 2287,
+    "stargazers_count": 2291,
     "open_issues_count": 74,
     "forks_count": 325
   },
   {
     "full_name": "luong-komorebi/Awesome-Linux-Software",
-    "stargazers_count": 17493,
-    "open_issues_count": 30,
-    "forks_count": 1776
+    "stargazers_count": 17496,
+    "open_issues_count": 24,
+    "forks_count": 1775
   },
   {
     "full_name": "veggiemonk/awesome-docker",
-    "stargazers_count": 21867,
-    "open_issues_count": 2,
-    "forks_count": 2590
+    "stargazers_count": 21877,
+    "open_issues_count": 3,
+    "forks_count": 2589
   },
   {
     "full_name": "yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB",
-    "stargazers_count": 154,
+    "stargazers_count": 155,
     "open_issues_count": 2,
     "forks_count": 107
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 47508,
-    "open_issues_count": 695,
-    "forks_count": 3507
+    "stargazers_count": 47569,
+    "open_issues_count": 697,
+    "forks_count": 3514
   },
   {
     "full_name": "EbTech/rust-algorithms",
-    "stargazers_count": 3079,
+    "stargazers_count": 3080,
     "open_issues_count": 4,
     "forks_count": 196
   },
   {
     "full_name": "30-seconds/30-seconds-of-php",
-    "stargazers_count": 2486,
+    "stargazers_count": 2487,
     "open_issues_count": 0,
     "forks_count": 311
   },
   {
     "full_name": "MTrajK/coding-problems",
-    "stargazers_count": 2623,
+    "stargazers_count": 2625,
     "open_issues_count": 0,
-    "forks_count": 524
+    "forks_count": 525
   },
   {
     "full_name": "adafruit/circuitpython",
-    "stargazers_count": 3007,
-    "open_issues_count": 530,
+    "stargazers_count": 3026,
+    "open_issues_count": 533,
     "forks_count": 777
   },
   {
     "full_name": "learn-anything/books",
-    "stargazers_count": 3597,
+    "stargazers_count": 3604,
     "open_issues_count": 5,
     "forks_count": 545
   },
   {
     "full_name": "30-seconds/30-seconds-of-interviews",
-    "stargazers_count": 9904,
+    "stargazers_count": 9905,
     "open_issues_count": 17,
-    "forks_count": 887
+    "forks_count": 886
   },
   {
     "full_name": "learn-anything/learn-anything",
-    "stargazers_count": 13982,
+    "stargazers_count": 13994,
     "open_issues_count": 5,
     "forks_count": 922
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 96015,
+    "stargazers_count": 96079,
     "open_issues_count": 0,
-    "forks_count": 10153
+    "forks_count": 10158
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 36946,
-    "open_issues_count": 3,
-    "forks_count": 7169
+    "stargazers_count": 37084,
+    "open_issues_count": 4,
+    "forks_count": 7186
   },
   {
     "full_name": "darrikonn/td-cli",
@@ -109,73 +109,73 @@
   },
   {
     "full_name": "mpv-player/mpv",
-    "stargazers_count": 18776,
-    "open_issues_count": 848,
+    "stargazers_count": 18803,
+    "open_issues_count": 851,
     "forks_count": 2292
   },
   {
     "full_name": "TheAlgorithms/C",
-    "stargazers_count": 13618,
-    "open_issues_count": 10,
-    "forks_count": 3474
+    "stargazers_count": 13627,
+    "open_issues_count": 9,
+    "forks_count": 3478
   },
   {
     "full_name": "qbittorrent/qBittorrent",
-    "stargazers_count": 15879,
-    "open_issues_count": 2795,
-    "forks_count": 2770
+    "stargazers_count": 15901,
+    "open_issues_count": 2800,
+    "forks_count": 2774
   },
   {
     "full_name": "sqlitebrowser/sqlitebrowser",
-    "stargazers_count": 16554,
-    "open_issues_count": 571,
+    "stargazers_count": 16562,
+    "open_issues_count": 575,
     "forks_count": 1853
   },
   {
     "full_name": "fffaraz/awesome-cpp",
-    "stargazers_count": 37632,
+    "stargazers_count": 37664,
     "open_issues_count": 406,
-    "forks_count": 6261
+    "forks_count": 6259
   },
   {
     "full_name": "cs01/gdbgui",
-    "stargazers_count": 8617,
+    "stargazers_count": 8619,
     "open_issues_count": 136,
-    "forks_count": 514
+    "forks_count": 515
   },
   {
     "full_name": "leereilly/swot",
     "stargazers_count": 1037,
     "open_issues_count": 795,
-    "forks_count": 13629
+    "forks_count": 13642
   },
   {
     "full_name": "koding/koding",
-    "stargazers_count": 1996,
+    "stargazers_count": 1998,
     "open_issues_count": 252,
     "forks_count": 597
   },
   {
     "full_name": "GoogleCloudPlatform/gcping",
-    "stargazers_count": 225,
+    "stargazers_count": 228,
     "open_issues_count": 6,
     "forks_count": 42
   },
   {
     "full_name": "VSCodium/vscodium",
-    "stargazers_count": 15985,
+    "stargazers_count": 16003,
     "open_issues_count": 105,
-    "forks_count": 688
+    "forks_count": 691
   },
   {
     "full_name": "sumatrapdfreader/sumatrapdf",
-    "stargazers_count": 8320,
-    "open_issues_count": 397,
-    "forks_count": 1421
+    "stargazers_count": 8348,
+    "open_issues_count": 402,
+    "forks_count": 1419
   },
   {
     "full_name": "santinic/how2",
-    "stargazers_count": 5497,
+    "stargazers_count": 5498,
     "open_issues_count": 41,
     "forks_count": 177
   }
