@@ -1,21 +1,21 @@
 [
   {
     "full_name": "herrbischoff/awesome-macos-command-line",
-    "stargazers_count": 25680,
+    "stargazers_count": 25682,
     "open_issues_count": 0,
     "forks_count": 1511
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 32375,
-    "open_issues_count": 42,
-    "forks_count": 7709
+    "stargazers_count": 32390,
+    "open_issues_count": 45,
+    "forks_count": 7714
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 49574,
+    "stargazers_count": 49589,
     "open_issues_count": 128,
-    "forks_count": 5363
+    "forks_count": 5364
   },
   {
     "full_name": "phmullins/awesome-macos-commandline",
@@ -26,62 +26,62 @@
   {
     "full_name": "OfficeDev/Microsoft-Teams-Samples",
     "stargazers_count": 323,
-    "open_issues_count": 71,
-    "forks_count": 334
+    "open_issues_count": 72,
+    "forks_count": 336
   },
   {
     "full_name": "magma/magma",
-    "stargazers_count": 1317,
-    "open_issues_count": 441,
+    "stargazers_count": 1318,
+    "open_issues_count": 443,
     "forks_count": 514
   },
   {
     "full_name": "learn-anything/courses",
-    "stargazers_count": 839,
+    "stargazers_count": 840,
     "open_issues_count": 2,
     "forks_count": 164
   },
   {
     "full_name": "mayswind/AriaNg",
-    "stargazers_count": 8941,
+    "stargazers_count": 8945,
     "open_issues_count": 26,
     "forks_count": 1121
   },
   {
     "full_name": "ziahamza/webui-aria2",
-    "stargazers_count": 8812,
+    "stargazers_count": 8814,
     "open_issues_count": 137,
     "forks_count": 1420
   },
   {
     "full_name": "notable/notable",
-    "stargazers_count": 19874,
+    "stargazers_count": 19873,
     "open_issues_count": 631,
     "forks_count": 1006
   },
   {
     "full_name": "yeasy/docker_practice",
-    "stargazers_count": 20605,
+    "stargazers_count": 20606,
     "open_issues_count": 3,
-    "forks_count": 5301
+    "forks_count": 5302
   },
   {
     "full_name": "nylas/nylas-mail",
     "stargazers_count": 24647,
     "open_issues_count": 1013,
-    "forks_count": 1467
+    "forks_count": 1468
   },
   {
     "full_name": "marktext/marktext",
-    "stargazers_count": 32492,
+    "stargazers_count": 32514,
     "open_issues_count": 757,
-    "forks_count": 2409
+    "forks_count": 2411
   },
   {
     "full_name": "gcc-mirror/gcc",
-    "stargazers_count": 6391,
+    "stargazers_count": 6395,
     "open_issues_count": 33,
-    "forks_count": 3378
+    "forks_count": 3380
   },
   {
     "full_name": "samtay/so",
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "rust-lang/book",
-    "stargazers_count": 9460,
-    "open_issues_count": 133,
+    "stargazers_count": 9464,
+    "open_issues_count": 134,
     "forks_count": 2321
   },
   {
     "full_name": "rust-lang/regex",
-    "stargazers_count": 2307,
+    "stargazers_count": 2309,
     "open_issues_count": 75,
     "forks_count": 325
   },
   {
     "full_name": "luong-komorebi/Awesome-Linux-Software",
-    "stargazers_count": 17513,
-    "open_issues_count": 23,
-    "forks_count": 1775
+    "stargazers_count": 17511,
+    "open_issues_count": 18,
+    "forks_count": 1774
   },
   {
     "full_name": "veggiemonk/awesome-docker",
-    "stargazers_count": 21921,
-    "open_issues_count": 2,
-    "forks_count": 2590
+    "stargazers_count": 21929,
+    "open_issues_count": 3,
+    "forks_count": 2591
   },
   {
     "full_name": "yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 47694,
+    "stargazers_count": 47714,
     "open_issues_count": 700,
-    "forks_count": 3533
+    "forks_count": 3537
   },
   {
     "full_name": "EbTech/rust-algorithms",
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "30-seconds/30-seconds-of-php",
-    "stargazers_count": 2488,
+    "stargazers_count": 2489,
     "open_issues_count": 0,
     "forks_count": 311
   },
   {
     "full_name": "MTrajK/coding-problems",
-    "stargazers_count": 2664,
+    "stargazers_count": 2666,
     "open_issues_count": 0,
     "forks_count": 534
   },
   {
     "full_name": "adafruit/circuitpython",
     "stargazers_count": 3039,
-    "open_issues_count": 525,
-    "forks_count": 780
+    "open_issues_count": 530,
+    "forks_count": 781
   },
   {
     "full_name": "learn-anything/books",
-    "stargazers_count": 3623,
+    "stargazers_count": 3626,
     "open_issues_count": 5,
     "forks_count": 546
   },
   {
     "full_name": "30-seconds/30-seconds-of-interviews",
-    "stargazers_count": 9923,
+    "stargazers_count": 9925,
     "open_issues_count": 17,
-    "forks_count": 887
+    "forks_count": 888
   },
   {
     "full_name": "learn-anything/learn-anything",
-    "stargazers_count": 14018,
+    "stargazers_count": 14022,
     "open_issues_count": 5,
-    "forks_count": 925
+    "forks_count": 926
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 96457,
+    "stargazers_count": 96510,
     "open_issues_count": 0,
-    "forks_count": 10191
+    "forks_count": 10195
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 37505,
+    "stargazers_count": 37723,
     "open_issues_count": 3,
-    "forks_count": 7341
+    "forks_count": 7383
   }
 ]
