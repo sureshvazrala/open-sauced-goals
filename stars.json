@@ -1,15 +1,15 @@
 [
   {
     "full_name": "webtorrent/webtorrent-desktop",
-    "stargazers_count": 8856,
-    "open_issues_count": 155,
-    "forks_count": 1010
+    "stargazers_count": 8857,
+    "open_issues_count": 154,
+    "forks_count": 1011
   },
   {
     "full_name": "aria2/aria2",
-    "stargazers_count": 26597,
+    "stargazers_count": 26611,
     "open_issues_count": 914,
-    "forks_count": 3002
+    "forks_count": 3003
   },
   {
     "full_name": "herrbischoff/awesome-macos-command-line",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 32418,
-    "open_issues_count": 46,
-    "forks_count": 7725
+    "stargazers_count": 32430,
+    "open_issues_count": 36,
+    "forks_count": 7730
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 49641,
+    "stargazers_count": 49658,
     "open_issues_count": 126,
     "forks_count": 5365
   },
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "OfficeDev/Microsoft-Teams-Samples",
-    "stargazers_count": 324,
+    "stargazers_count": 326,
     "open_issues_count": 71,
     "forks_count": 338
   },
   {
     "full_name": "magma/magma",
     "stargazers_count": 1319,
-    "open_issues_count": 444,
+    "open_issues_count": 453,
     "forks_count": 514
   },
   {
@@ -61,39 +61,39 @@
   },
   {
     "full_name": "ziahamza/webui-aria2",
-    "stargazers_count": 8816,
+    "stargazers_count": 8818,
     "open_issues_count": 136,
-    "forks_count": 1419
+    "forks_count": 1418
   },
   {
     "full_name": "notable/notable",
-    "stargazers_count": 19883,
+    "stargazers_count": 19887,
     "open_issues_count": 631,
-    "forks_count": 1006
+    "forks_count": 1005
   },
   {
     "full_name": "yeasy/docker_practice",
-    "stargazers_count": 20621,
+    "stargazers_count": 20631,
     "open_issues_count": 3,
-    "forks_count": 5306
+    "forks_count": 5307
   },
   {
     "full_name": "nylas/nylas-mail",
-    "stargazers_count": 24649,
+    "stargazers_count": 24650,
     "open_issues_count": 1013,
     "forks_count": 1468
   },
   {
     "full_name": "marktext/marktext",
-    "stargazers_count": 32583,
+    "stargazers_count": 32609,
     "open_issues_count": 762,
     "forks_count": 2414
   },
   {
     "full_name": "gcc-mirror/gcc",
-    "stargazers_count": 6411,
+    "stargazers_count": 6416,
     "open_issues_count": 33,
-    "forks_count": 3387
+    "forks_count": 3389
   },
   {
     "full_name": "samtay/so",
@@ -103,26 +103,26 @@
   },
   {
     "full_name": "rust-lang/book",
-    "stargazers_count": 9489,
+    "stargazers_count": 9493,
     "open_issues_count": 135,
-    "forks_count": 2327
+    "forks_count": 2332
   },
   {
     "full_name": "rust-lang/regex",
     "stargazers_count": 2310,
-    "open_issues_count": 76,
+    "open_issues_count": 75,
     "forks_count": 327
   },
   {
     "full_name": "luong-komorebi/Awesome-Linux-Software",
     "stargazers_count": 17518,
-    "open_issues_count": 17,
+    "open_issues_count": 14,
     "forks_count": 1775
   },
   {
     "full_name": "veggiemonk/awesome-docker",
-    "stargazers_count": 21948,
-    "open_issues_count": 4,
+    "stargazers_count": 21964,
+    "open_issues_count": 1,
     "forks_count": 2590
   },
   {
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 47773,
-    "open_issues_count": 710,
-    "forks_count": 3540
+    "stargazers_count": 47794,
+    "open_issues_count": 709,
+    "forks_count": 3543
   },
   {
     "full_name": "EbTech/rust-algorithms",
-    "stargazers_count": 3092,
+    "stargazers_count": 3093,
     "open_issues_count": 4,
     "forks_count": 197
   },
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "MTrajK/coding-problems",
-    "stargazers_count": 2667,
+    "stargazers_count": 2669,
     "open_issues_count": 0,
     "forks_count": 533
   },
   {
     "full_name": "adafruit/circuitpython",
-    "stargazers_count": 3042,
-    "open_issues_count": 530,
+    "stargazers_count": 3043,
+    "open_issues_count": 534,
     "forks_count": 783
   },
   {
     "full_name": "learn-anything/books",
     "stargazers_count": 3629,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 546
   },
   {
     "full_name": "30-seconds/30-seconds-of-interviews",
-    "stargazers_count": 9936,
+    "stargazers_count": 9938,
     "open_issues_count": 17,
     "forks_count": 891
   },
   {
     "full_name": "learn-anything/learn-anything",
-    "stargazers_count": 14029,
+    "stargazers_count": 14037,
     "open_issues_count": 5,
     "forks_count": 927
   }
