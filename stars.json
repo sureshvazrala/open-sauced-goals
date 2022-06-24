@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "pivpn/pivpn",
+    "stargazers_count": 5302,
+    "open_issues_count": 10,
+    "forks_count": 498
+  },
+  {
     "full_name": "ychclone/blink",
     "stargazers_count": 28,
     "open_issues_count": 0,
@@ -8,7 +14,7 @@
   {
     "full_name": "universal-ctags/ctags",
     "stargazers_count": 5035,
-    "open_issues_count": 207,
+    "open_issues_count": 208,
     "forks_count": 507
   },
   {
@@ -19,33 +25,33 @@
   },
   {
     "full_name": "webtorrent/webtorrent-desktop",
-    "stargazers_count": 8866,
-    "open_issues_count": 153,
-    "forks_count": 1012
+    "stargazers_count": 8871,
+    "open_issues_count": 157,
+    "forks_count": 1011
   },
   {
     "full_name": "aria2/aria2",
-    "stargazers_count": 26651,
-    "open_issues_count": 916,
-    "forks_count": 3008
+    "stargazers_count": 26667,
+    "open_issues_count": 917,
+    "forks_count": 3010
   },
   {
     "full_name": "herrbischoff/awesome-macos-command-line",
-    "stargazers_count": 25710,
+    "stargazers_count": 25729,
     "open_issues_count": 0,
     "forks_count": 1509
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 32478,
+    "stargazers_count": 32502,
     "open_issues_count": 34,
-    "forks_count": 7760
+    "forks_count": 7768
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 49784,
+    "stargazers_count": 49875,
     "open_issues_count": 124,
-    "forks_count": 5365
+    "forks_count": 5369
   },
   {
     "full_name": "phmullins/awesome-macos-commandline",
@@ -55,93 +61,93 @@
   },
   {
     "full_name": "OfficeDev/Microsoft-Teams-Samples",
-    "stargazers_count": 331,
-    "open_issues_count": 75,
-    "forks_count": 342
+    "stargazers_count": 337,
+    "open_issues_count": 78,
+    "forks_count": 344
   },
   {
     "full_name": "magma/magma",
     "stargazers_count": 1319,
-    "open_issues_count": 457,
+    "open_issues_count": 462,
     "forks_count": 516
   },
   {
     "full_name": "learn-anything/courses",
-    "stargazers_count": 845,
+    "stargazers_count": 846,
     "open_issues_count": 2,
     "forks_count": 164
   },
   {
     "full_name": "mayswind/AriaNg",
-    "stargazers_count": 8982,
+    "stargazers_count": 8989,
     "open_issues_count": 25,
     "forks_count": 1122
   },
   {
     "full_name": "ziahamza/webui-aria2",
-    "stargazers_count": 8821,
+    "stargazers_count": 8823,
     "open_issues_count": 136,
     "forks_count": 1419
   },
   {
     "full_name": "notable/notable",
-    "stargazers_count": 19915,
+    "stargazers_count": 19924,
     "open_issues_count": 631,
-    "forks_count": 1006
+    "forks_count": 1008
   },
   {
     "full_name": "yeasy/docker_practice",
-    "stargazers_count": 20665,
+    "stargazers_count": 20689,
     "open_issues_count": 3,
-    "forks_count": 5314
+    "forks_count": 5318
   },
   {
     "full_name": "nylas/nylas-mail",
-    "stargazers_count": 24653,
+    "stargazers_count": 24657,
     "open_issues_count": 1013,
-    "forks_count": 1469
+    "forks_count": 1470
   },
   {
     "full_name": "marktext/marktext",
-    "stargazers_count": 32833,
-    "open_issues_count": 781,
-    "forks_count": 2442
+    "stargazers_count": 32922,
+    "open_issues_count": 780,
+    "forks_count": 2450
   },
   {
     "full_name": "gcc-mirror/gcc",
-    "stargazers_count": 6436,
-    "open_issues_count": 33,
-    "forks_count": 3400
+    "stargazers_count": 6444,
+    "open_issues_count": 34,
+    "forks_count": 3403
   },
   {
     "full_name": "samtay/so",
-    "stargazers_count": 997,
+    "stargazers_count": 999,
     "open_issues_count": 6,
     "forks_count": 19
   },
   {
     "full_name": "rust-lang/book",
-    "stargazers_count": 9535,
-    "open_issues_count": 136,
-    "forks_count": 2340
+    "stargazers_count": 9550,
+    "open_issues_count": 139,
+    "forks_count": 2342
   },
   {
     "full_name": "rust-lang/regex",
     "stargazers_count": 2320,
-    "open_issues_count": 76,
+    "open_issues_count": 77,
     "forks_count": 331
   },
   {
     "full_name": "luong-komorebi/Awesome-Linux-Software",
-    "stargazers_count": 17541,
-    "open_issues_count": 14,
-    "forks_count": 1781
+    "stargazers_count": 17548,
+    "open_issues_count": 15,
+    "forks_count": 1780
   },
   {
     "full_name": "veggiemonk/awesome-docker",
-    "stargazers_count": 22005,
+    "stargazers_count": 22044,
     "open_issues_count": 1,
-    "forks_count": 2590
+    "forks_count": 2592
   },
   {
     "full_name": "yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB",
@@ -151,15 +157,15 @@
   },
   {
     "full_name": "mermaid-js/mermaid",
-    "stargazers_count": 47961,
-    "open_issues_count": 725,
-    "forks_count": 3571
+    "stargazers_count": 48018,
+    "open_issues_count": 724,
+    "forks_count": 3577
   },
   {
     "full_name": "EbTech/rust-algorithms",
-    "stargazers_count": 3097,
+    "stargazers_count": 3096,
     "open_issues_count": 4,
-    "forks_count": 198
+    "forks_count": 197
   },
   {
     "full_name": "30-seconds/30-seconds-of-php",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "MTrajK/coding-problems",
-    "stargazers_count": 2676,
+    "stargazers_count": 2677,
     "open_issues_count": 0,
-    "forks_count": 534
-  },
-  {
-    "full_name": "adafruit/circuitpython",
-    "stargazers_count": 3047,
-    "open_issues_count": 537,
-    "forks_count": 782
+    "forks_count": 535
   }
 ]
