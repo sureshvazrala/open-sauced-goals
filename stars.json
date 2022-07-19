@@ -1,19 +1,49 @@
 [
   {
+    "full_name": "jwasham/coding-interview-university",
+    "stargazers_count": 225815,
+    "open_issues_count": 51,
+    "forks_count": 60858
+  },
+  {
+    "full_name": "codePerfectPlus/AlgorithmsAndDataStructure",
+    "stargazers_count": 639,
+    "open_issues_count": 145,
+    "forks_count": 541
+  },
+  {
+    "full_name": "dani-garcia/vaultwarden",
+    "stargazers_count": 17308,
+    "open_issues_count": 12,
+    "forks_count": 934
+  },
+  {
+    "full_name": "iv-org/invidious",
+    "stargazers_count": 7809,
+    "open_issues_count": 328,
+    "forks_count": 697
+  },
+  {
+    "full_name": "FreeTubeApp/FreeTube",
+    "stargazers_count": 5509,
+    "open_issues_count": 418,
+    "forks_count": 383
+  },
+  {
     "full_name": "StevenBlack/hosts",
-    "stargazers_count": 21122,
-    "open_issues_count": 29,
-    "forks_count": 1843
+    "stargazers_count": 21136,
+    "open_issues_count": 30,
+    "forks_count": 1845
   },
   {
     "full_name": "b4b4r07/enhancd",
-    "stargazers_count": 2160,
+    "stargazers_count": 2161,
     "open_issues_count": 19,
     "forks_count": 100
   },
   {
     "full_name": "you-dont-need/You-Dont-Need-GUI",
-    "stargazers_count": 4973,
+    "stargazers_count": 4974,
     "open_issues_count": 12,
     "forks_count": 233
   },
@@ -25,62 +55,62 @@
   },
   {
     "full_name": "wting/autojump",
-    "stargazers_count": 13949,
+    "stargazers_count": 13969,
     "open_issues_count": 197,
     "forks_count": 651
   },
   {
     "full_name": "johnjago/awesome-free-software",
-    "stargazers_count": 982,
-    "open_issues_count": 4,
+    "stargazers_count": 985,
+    "open_issues_count": 2,
     "forks_count": 75
   },
   {
     "full_name": "magma/magma",
-    "stargazers_count": 1334,
-    "open_issues_count": 418,
+    "stargazers_count": 1335,
+    "open_issues_count": 409,
     "forks_count": 524
   },
   {
     "full_name": "portainer/portainer",
-    "stargazers_count": 22360,
-    "open_issues_count": 949,
+    "stargazers_count": 22381,
+    "open_issues_count": 956,
     "forks_count": 2006
   },
   {
     "full_name": "netdata/netdata",
-    "stargazers_count": 59925,
-    "open_issues_count": 241,
-    "forks_count": 5326
+    "stargazers_count": 59962,
+    "open_issues_count": 244,
+    "forks_count": 5330
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 95332,
-    "open_issues_count": 147,
-    "forks_count": 6077
+    "stargazers_count": 95715,
+    "open_issues_count": 156,
+    "forks_count": 6097
   },
   {
     "full_name": "bastienwirtz/homer",
-    "stargazers_count": 5292,
+    "stargazers_count": 5314,
     "open_issues_count": 79,
-    "forks_count": 499
+    "forks_count": 501
   },
   {
     "full_name": "pivpn/pivpn",
-    "stargazers_count": 5349,
-    "open_issues_count": 14,
+    "stargazers_count": 5356,
+    "open_issues_count": 17,
     "forks_count": 503
   },
   {
     "full_name": "ychclone/blink",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "universal-ctags/ctags",
-    "stargazers_count": 5066,
-    "open_issues_count": 200,
+    "stargazers_count": 5072,
+    "open_issues_count": 198,
     "forks_count": 506
   },
   {
@@ -91,92 +121,62 @@
   },
   {
     "full_name": "webtorrent/webtorrent-desktop",
-    "stargazers_count": 8907,
-    "open_issues_count": 155,
+    "stargazers_count": 8908,
+    "open_issues_count": 156,
     "forks_count": 1017
   },
   {
     "full_name": "aria2/aria2",
-    "stargazers_count": 26837,
-    "open_issues_count": 921,
-    "forks_count": 3018
+    "stargazers_count": 26874,
+    "open_issues_count": 925,
+    "forks_count": 3024
   },
   {
     "full_name": "herrbischoff/awesome-macos-command-line",
-    "stargazers_count": 25874,
+    "stargazers_count": 25894,
     "open_issues_count": 0,
     "forks_count": 1506
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 32748,
-    "open_issues_count": 42,
-    "forks_count": 7830
+    "stargazers_count": 32773,
+    "open_issues_count": 46,
+    "forks_count": 7838
   },
   {
     "full_name": "jaywcjlove/awesome-mac",
-    "stargazers_count": 51204,
-    "open_issues_count": 126,
-    "forks_count": 5423
+    "stargazers_count": 51302,
+    "open_issues_count": 127,
+    "forks_count": 5430
   },
   {
     "full_name": "phmullins/awesome-macos-commandline",
-    "stargazers_count": 130,
+    "stargazers_count": 131,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "OfficeDev/Microsoft-Teams-Samples",
-    "stargazers_count": 358,
-    "open_issues_count": 78,
-    "forks_count": 362
+    "stargazers_count": 363,
+    "open_issues_count": 80,
+    "forks_count": 364
   },
   {
     "full_name": "learn-anything/courses",
-    "stargazers_count": 879,
+    "stargazers_count": 882,
     "open_issues_count": 2,
     "forks_count": 168
   },
   {
     "full_name": "mayswind/AriaNg",
-    "stargazers_count": 9062,
+    "stargazers_count": 9073,
     "open_issues_count": 25,
-    "forks_count": 1131
+    "forks_count": 1132
   },
   {
     "full_name": "ziahamza/webui-aria2",
-    "stargazers_count": 8848,
+    "stargazers_count": 8849,
     "open_issues_count": 136,
-    "forks_count": 1422
-  },
-  {
-    "full_name": "notable/notable",
-    "stargazers_count": 20014,
-    "open_issues_count": 637,
-    "forks_count": 1012
-  },
-  {
-    "full_name": "yeasy/docker_practice",
-    "stargazers_count": 20802,
-    "open_issues_count": 3,
-    "forks_count": 5334
-  },
-  {
-    "full_name": "nylas/nylas-mail",
-    "stargazers_count": 24668,
-    "open_issues_count": 1013,
-    "forks_count": 1468
-  },
-  {
-    "full_name": "marktext/marktext",
-    "stargazers_count": 33627,
-    "open_issues_count": 798,
-    "forks_count": 2508
-  },
-  {
-    "full_name": "gcc-mirror/gcc",
-    "stargazers_count": 6508,
-    "open_issues_count": 35,
-    "forks_count": 3426
+    "forks_count": 1420
   }
 ]
