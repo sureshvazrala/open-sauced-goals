@@ -1,7 +1,7 @@
 [
   {
     "full_name": "mas-cli/mas",
-    "stargazers_count": 9244,
+    "stargazers_count": 9253,
     "open_issues_count": 68,
     "forks_count": 237
   },
@@ -13,32 +13,32 @@
   },
   {
     "full_name": "cheat/cheat",
-    "stargazers_count": 10030,
+    "stargazers_count": 10036,
     "open_issues_count": 27,
     "forks_count": 761
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 24122,
-    "open_issues_count": 119,
-    "forks_count": 3705
+    "stargazers_count": 24288,
+    "open_issues_count": 120,
+    "forks_count": 3708
   },
   {
     "full_name": "ducaale/xh",
-    "stargazers_count": 3180,
+    "stargazers_count": 3184,
     "open_issues_count": 37,
     "forks_count": 63
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 4624,
-    "open_issues_count": 57,
-    "forks_count": 113
+    "stargazers_count": 4627,
+    "open_issues_count": 58,
+    "forks_count": 114
   },
   {
     "full_name": "pacstall/pacstall",
-    "stargazers_count": 679,
-    "open_issues_count": 42,
+    "stargazers_count": 687,
+    "open_issues_count": 44,
     "forks_count": 21
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "zyedidia/micro",
-    "stargazers_count": 20453,
-    "open_issues_count": 699,
-    "forks_count": 1056
+    "stargazers_count": 20480,
+    "open_issues_count": 705,
+    "forks_count": 1058
   },
   {
     "full_name": "lgallard/qBittorrent-Controller",
@@ -61,49 +61,49 @@
   },
   {
     "full_name": "botallen/repository.botallen",
-    "stargazers_count": 229,
-    "open_issues_count": 81,
+    "stargazers_count": 230,
+    "open_issues_count": 82,
     "forks_count": 92
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 7838,
-    "open_issues_count": 84,
-    "forks_count": 997
+    "stargazers_count": 7854,
+    "open_issues_count": 87,
+    "forks_count": 1000
   },
   {
     "full_name": "TheAlgorithms/Rust",
-    "stargazers_count": 11681,
-    "open_issues_count": 6,
-    "forks_count": 1186
+    "stargazers_count": 11737,
+    "open_issues_count": 4,
+    "forks_count": 1193
   },
   {
     "full_name": "ravitandon90/LeetCode-TopProblems",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "posquit0/Awesome-CV",
-    "stargazers_count": 17406,
+    "stargazers_count": 17434,
     "open_issues_count": 165,
-    "forks_count": 4156
+    "forks_count": 4166
   },
   {
     "full_name": "ether/etherpad-lite",
-    "stargazers_count": 13393,
-    "open_issues_count": 131,
+    "stargazers_count": 13402,
+    "open_issues_count": 132,
     "forks_count": 2450
   },
   {
     "full_name": "anu0012/awesome-computer-science-opportunities",
     "stargazers_count": 2782,
     "open_issues_count": 12,
-    "forks_count": 325
+    "forks_count": 326
   },
   {
     "full_name": "walkccc/LeetCode",
-    "stargazers_count": 412,
+    "stargazers_count": 414,
     "open_issues_count": 1,
     "forks_count": 196
   },
@@ -115,68 +115,68 @@
   },
   {
     "full_name": "technorabilia/portainer-templates",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "microsoft/language-server-protocol",
-    "stargazers_count": 8797,
-    "open_issues_count": 188,
-    "forks_count": 680
+    "stargazers_count": 8815,
+    "open_issues_count": 189,
+    "forks_count": 683
   },
   {
     "full_name": "eclipse-theia/theia",
-    "stargazers_count": 17452,
+    "stargazers_count": 17463,
     "open_issues_count": 1384,
-    "forks_count": 2252
+    "forks_count": 2254
   },
   {
     "full_name": "PySimpleGUI/PySimpleGUI",
-    "stargazers_count": 10688,
-    "open_issues_count": 680,
-    "forks_count": 1613
+    "stargazers_count": 10699,
+    "open_issues_count": 677,
+    "forks_count": 1614
   },
   {
     "full_name": "Qballjos/portainer_templates",
-    "stargazers_count": 302,
+    "stargazers_count": 303,
     "open_issues_count": 3,
     "forks_count": 338
   },
   {
     "full_name": "filecxx/FileCentipede",
-    "stargazers_count": 2992,
-    "open_issues_count": 63,
-    "forks_count": 223
+    "stargazers_count": 3036,
+    "open_issues_count": 65,
+    "forks_count": 224
   },
   {
     "full_name": "python/cpython",
-    "stargazers_count": 48086,
-    "open_issues_count": 8138,
-    "forks_count": 24439
+    "stargazers_count": 48171,
+    "open_issues_count": 8155,
+    "forks_count": 24499
   },
   {
     "full_name": "alphaSeclab/awesome-reverse-engineering",
-    "stargazers_count": 3557,
+    "stargazers_count": 3560,
     "open_issues_count": 3,
     "forks_count": 760
   },
   {
     "full_name": "horsicq/Detect-It-Easy",
-    "stargazers_count": 4107,
-    "open_issues_count": 28,
-    "forks_count": 512
+    "stargazers_count": 4122,
+    "open_issues_count": 29,
+    "forks_count": 514
   },
   {
     "full_name": "hugsy/gef",
-    "stargazers_count": 5067,
+    "stargazers_count": 5072,
     "open_issues_count": 6,
-    "forks_count": 621
+    "forks_count": 619
   },
   {
     "full_name": "mytechnotalent/Reverse-Engineering",
-    "stargazers_count": 7405,
+    "stargazers_count": 7420,
     "open_issues_count": 0,
-    "forks_count": 713
+    "forks_count": 715
   }
 ]
