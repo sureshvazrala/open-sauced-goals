@@ -1,9 +1,9 @@
 [
   {
     "full_name": "mikeroyal/Apple-Silicon-Guide",
-    "stargazers_count": 669,
-    "open_issues_count": 2,
-    "forks_count": 34
+    "stargazers_count": 670,
+    "open_issues_count": 1,
+    "forks_count": 35
   },
   {
     "full_name": "Sonelli/juicessh-performancemonitor",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "osxfuse/osxfuse",
-    "stargazers_count": 7755,
+    "stargazers_count": 7761,
     "open_issues_count": 134,
     "forks_count": 488
   },
@@ -25,87 +25,87 @@
   },
   {
     "full_name": "rxhanson/Rectangle",
-    "stargazers_count": 19414,
+    "stargazers_count": 19456,
     "open_issues_count": 47,
-    "forks_count": 566
+    "forks_count": 565
   },
   {
     "full_name": "iina/iina",
-    "stargazers_count": 31804,
-    "open_issues_count": 1421,
-    "forks_count": 2351
+    "stargazers_count": 31822,
+    "open_issues_count": 1430,
+    "forks_count": 2353
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 33096,
-    "open_issues_count": 69,
+    "stargazers_count": 33157,
+    "open_issues_count": 72,
     "forks_count": 2115
   },
   {
     "full_name": "ntop/ntopng",
-    "stargazers_count": 4926,
-    "open_issues_count": 226,
+    "stargazers_count": 4931,
+    "open_issues_count": 213,
     "forks_count": 583
   },
   {
     "full_name": "emmericp/MoonGen",
-    "stargazers_count": 928,
+    "stargazers_count": 929,
     "open_issues_count": 76,
     "forks_count": 215
   },
   {
     "full_name": "mitthu786/tvepg",
-    "stargazers_count": 36,
+    "stargazers_count": 37,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 39718,
-    "open_issues_count": 850,
-    "forks_count": 3312
+    "stargazers_count": 39743,
+    "open_issues_count": 854,
+    "forks_count": 3315
   },
   {
     "full_name": "mas-cli/mas",
-    "stargazers_count": 9358,
-    "open_issues_count": 73,
-    "forks_count": 240
+    "stargazers_count": 9365,
+    "open_issues_count": 74,
+    "forks_count": 242
   },
   {
     "full_name": "dokeraj/AndroTainer",
-    "stargazers_count": 68,
-    "open_issues_count": 8,
+    "stargazers_count": 69,
+    "open_issues_count": 7,
     "forks_count": 4
   },
   {
     "full_name": "cheat/cheat",
-    "stargazers_count": 10185,
+    "stargazers_count": 10193,
     "open_issues_count": 27,
-    "forks_count": 764
+    "forks_count": 765
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 24880,
+    "stargazers_count": 24962,
     "open_issues_count": 124,
     "forks_count": 3713
   },
   {
     "full_name": "ducaale/xh",
-    "stargazers_count": 3300,
+    "stargazers_count": 3305,
     "open_issues_count": 32,
     "forks_count": 66
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 4704,
+    "stargazers_count": 4712,
     "open_issues_count": 59,
-    "forks_count": 115
+    "forks_count": 116
   },
   {
     "full_name": "pacstall/pacstall",
     "stargazers_count": 733,
     "open_issues_count": 45,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "piraces/tldr-extension-browser",
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "zyedidia/micro",
-    "stargazers_count": 20668,
-    "open_issues_count": 724,
+    "stargazers_count": 20695,
+    "open_issues_count": 727,
     "forks_count": 1077
   },
   {
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "botallen/repository.botallen",
-    "stargazers_count": 236,
+    "stargazers_count": 237,
     "open_issues_count": 86,
     "forks_count": 93
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 8051,
-    "open_issues_count": 97,
+    "stargazers_count": 8072,
+    "open_issues_count": 107,
     "forks_count": 1031
   },
   {
     "full_name": "TheAlgorithms/Rust",
-    "stargazers_count": 12676,
-    "open_issues_count": 12,
-    "forks_count": 1288
+    "stargazers_count": 12715,
+    "open_issues_count": 13,
+    "forks_count": 1292
   },
   {
     "full_name": "ravitandon90/LeetCode-TopProblems",
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "posquit0/Awesome-CV",
-    "stargazers_count": 17789,
+    "stargazers_count": 17825,
     "open_issues_count": 164,
-    "forks_count": 4220
+    "forks_count": 4227
   },
   {
     "full_name": "ether/etherpad-lite",
-    "stargazers_count": 13550,
-    "open_issues_count": 142,
-    "forks_count": 2469
+    "stargazers_count": 13561,
+    "open_issues_count": 146,
+    "forks_count": 2471
   },
   {
     "full_name": "anu0012/awesome-computer-science-opportunities",
-    "stargazers_count": 2796,
+    "stargazers_count": 2802,
     "open_issues_count": 11,
-    "forks_count": 329
+    "forks_count": 330
   },
   {
     "full_name": "walkccc/LeetCode",
-    "stargazers_count": 431,
+    "stargazers_count": 432,
     "open_issues_count": 1,
     "forks_count": 199
   },
   {
     "full_name": "jihoonerd/Data_Structures_and_Algorithms_in_Python",
-    "stargazers_count": 309,
+    "stargazers_count": 311,
     "open_issues_count": 0,
     "forks_count": 111
   }
