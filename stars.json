@@ -1,37 +1,37 @@
 [
   {
     "full_name": "esnet/iperf",
-    "stargazers_count": 4970,
+    "stargazers_count": 4979,
     "open_issues_count": 160,
-    "forks_count": 1085
+    "forks_count": 1086
   },
   {
     "full_name": "scrapy/scrapy",
-    "stargazers_count": 45592,
-    "open_issues_count": 755,
-    "forks_count": 9833
+    "stargazers_count": 45625,
+    "open_issues_count": 757,
+    "forks_count": 9834
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 57276,
-    "open_issues_count": 2366,
-    "forks_count": 21430
+    "stargazers_count": 57337,
+    "open_issues_count": 2350,
+    "forks_count": 21498
   },
   {
     "full_name": "pytorch/pytorch",
-    "stargazers_count": 61591,
-    "open_issues_count": 10549,
-    "forks_count": 17154
+    "stargazers_count": 61758,
+    "open_issues_count": 10581,
+    "forks_count": 17189
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 68144,
-    "open_issues_count": 158,
-    "forks_count": 28432
+    "stargazers_count": 68225,
+    "open_issues_count": 163,
+    "forks_count": 28459
   },
   {
     "full_name": "Shra1V32/TataSky-Playlist-AutoUpdater",
-    "stargazers_count": 298,
+    "stargazers_count": 300,
     "open_issues_count": 0,
     "forks_count": 49
   },
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "mikeroyal/Apple-Silicon-Guide",
-    "stargazers_count": 877,
+    "stargazers_count": 886,
     "open_issues_count": 3,
     "forks_count": 44
   },
   {
     "full_name": "Sonelli/juicessh-performancemonitor",
-    "stargazers_count": 601,
+    "stargazers_count": 602,
     "open_issues_count": 63,
     "forks_count": 248
   },
   {
     "full_name": "osxfuse/osxfuse",
-    "stargazers_count": 7823,
-    "open_issues_count": 138,
-    "forks_count": 493
+    "stargazers_count": 7827,
+    "open_issues_count": 140,
+    "forks_count": 492
   },
   {
     "full_name": "yep/app-downloader",
@@ -67,31 +67,31 @@
   },
   {
     "full_name": "rxhanson/Rectangle",
-    "stargazers_count": 19890,
+    "stargazers_count": 19923,
     "open_issues_count": 47,
-    "forks_count": 575
+    "forks_count": 577
   },
   {
     "full_name": "iina/iina",
-    "stargazers_count": 32165,
-    "open_issues_count": 1483,
-    "forks_count": 2362
+    "stargazers_count": 32204,
+    "open_issues_count": 1484,
+    "forks_count": 2363
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 33725,
+    "stargazers_count": 33772,
     "open_issues_count": 73,
-    "forks_count": 2134
+    "forks_count": 2136
   },
   {
     "full_name": "ntop/ntopng",
-    "stargazers_count": 5039,
-    "open_issues_count": 271,
-    "forks_count": 589
+    "stargazers_count": 5046,
+    "open_issues_count": 275,
+    "forks_count": 590
   },
   {
     "full_name": "emmericp/MoonGen",
-    "stargazers_count": 942,
+    "stargazers_count": 943,
     "open_issues_count": 76,
     "forks_count": 216
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 40088,
-    "open_issues_count": 863,
-    "forks_count": 3342
+    "stargazers_count": 40109,
+    "open_issues_count": 864,
+    "forks_count": 3344
   },
   {
     "full_name": "mas-cli/mas",
-    "stargazers_count": 9479,
+    "stargazers_count": 9486,
     "open_issues_count": 76,
     "forks_count": 243
   },
@@ -121,33 +121,33 @@
   },
   {
     "full_name": "cheat/cheat",
-    "stargazers_count": 10467,
+    "stargazers_count": 10476,
     "open_issues_count": 33,
-    "forks_count": 776
+    "forks_count": 778
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 25782,
-    "open_issues_count": 137,
-    "forks_count": 3734
+    "stargazers_count": 25854,
+    "open_issues_count": 131,
+    "forks_count": 3735
   },
   {
     "full_name": "ducaale/xh",
-    "stargazers_count": 3407,
+    "stargazers_count": 3420,
     "open_issues_count": 34,
     "forks_count": 69
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 4824,
+    "stargazers_count": 4830,
     "open_issues_count": 63,
     "forks_count": 119
   },
   {
     "full_name": "pacstall/pacstall",
-    "stargazers_count": 771,
+    "stargazers_count": 773,
     "open_issues_count": 37,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "piraces/tldr-extension-browser",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "zyedidia/micro",
-    "stargazers_count": 20883,
-    "open_issues_count": 731,
-    "forks_count": 1086
+    "stargazers_count": 20903,
+    "open_issues_count": 728,
+    "forks_count": 1087
   },
   {
     "full_name": "lgallard/qBittorrent-Controller",
-    "stargazers_count": 265,
+    "stargazers_count": 264,
     "open_issues_count": 60,
     "forks_count": 58
   },
   {
     "full_name": "botallen/repository.botallen",
-    "stargazers_count": 249,
-    "open_issues_count": 108,
-    "forks_count": 110
+    "stargazers_count": 252,
+    "open_issues_count": 112,
+    "forks_count": 112
   },
   {
     "full_name": "AmruthPillai/Reactive-Resume",
-    "stargazers_count": 10167,
-    "open_issues_count": 129,
-    "forks_count": 1184
+    "stargazers_count": 10274,
+    "open_issues_count": 134,
+    "forks_count": 1195
   }
 ]
