@@ -1,75 +1,75 @@
 [
   {
     "full_name": "skills/introduction-to-github",
-    "stargazers_count": 2657,
+    "stargazers_count": 2678,
     "open_issues_count": 5,
-    "forks_count": 998
+    "forks_count": 1008
   },
   {
     "full_name": "Endava/cats",
     "stargazers_count": 939,
     "open_issues_count": 1,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "mathiasbynens/dotfiles",
-    "stargazers_count": 29010,
+    "stargazers_count": 29019,
     "open_issues_count": 186,
-    "forks_count": 8802
+    "forks_count": 8806
   },
   {
     "full_name": "solidiquis/erdtree",
-    "stargazers_count": 1850,
+    "stargazers_count": 1853,
     "open_issues_count": 16,
     "forks_count": 53
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 81613,
-    "open_issues_count": 9590,
-    "forks_count": 10791
+    "stargazers_count": 81749,
+    "open_issues_count": 9579,
+    "forks_count": 10799
   },
   {
     "full_name": "my5G/my5G-RANTester",
-    "stargazers_count": 54,
-    "open_issues_count": 9,
-    "forks_count": 25
+    "stargazers_count": 55,
+    "open_issues_count": 10,
+    "forks_count": 26
   },
   {
     "full_name": "esnet/iperf",
-    "stargazers_count": 5346,
+    "stargazers_count": 5354,
     "open_issues_count": 161,
     "forks_count": 1126
   },
   {
     "full_name": "scrapy/scrapy",
-    "stargazers_count": 47213,
-    "open_issues_count": 735,
-    "forks_count": 9986
+    "stargazers_count": 47260,
+    "open_issues_count": 737,
+    "forks_count": 9996
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 60512,
-    "open_issues_count": 2793,
-    "forks_count": 23193
+    "stargazers_count": 60585,
+    "open_issues_count": 2769,
+    "forks_count": 23240
   },
   {
     "full_name": "pytorch/pytorch",
-    "stargazers_count": 66908,
-    "open_issues_count": 11911,
-    "forks_count": 18347
+    "stargazers_count": 67043,
+    "open_issues_count": 11967,
+    "forks_count": 18371
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 70724,
-    "open_issues_count": 143,
-    "forks_count": 29220
+    "stargazers_count": 70865,
+    "open_issues_count": 146,
+    "forks_count": 29246
   },
   {
     "full_name": "Shra1V32/TataSky-Playlist-AutoUpdater",
-    "stargazers_count": 429,
+    "stargazers_count": 430,
     "open_issues_count": 0,
-    "forks_count": 70
+    "forks_count": 68
   },
   {
     "full_name": "sabbiriptv/FIFA-WorldCUP",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "mikeroyal/Apple-Silicon-Guide",
-    "stargazers_count": 1104,
-    "open_issues_count": 3,
+    "stargazers_count": 1111,
+    "open_issues_count": 2,
     "forks_count": 59
   },
   {
@@ -91,43 +91,43 @@
   },
   {
     "full_name": "osxfuse/osxfuse",
-    "stargazers_count": 8059,
-    "open_issues_count": 132,
-    "forks_count": 505
+    "stargazers_count": 8071,
+    "open_issues_count": 133,
+    "forks_count": 506
   },
   {
     "full_name": "yep/app-downloader",
-    "stargazers_count": 266,
+    "stargazers_count": 267,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "rxhanson/Rectangle",
-    "stargazers_count": 21219,
-    "open_issues_count": 70,
-    "forks_count": 611
+    "stargazers_count": 21248,
+    "open_issues_count": 71,
+    "forks_count": 610
   },
   {
     "full_name": "iina/iina",
-    "stargazers_count": 33254,
-    "open_issues_count": 1564,
+    "stargazers_count": 33296,
+    "open_issues_count": 1571,
     "forks_count": 2410
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 35380,
+    "stargazers_count": 35441,
     "open_issues_count": 82,
-    "forks_count": 2189
+    "forks_count": 2194
   },
   {
     "full_name": "ntop/ntopng",
-    "stargazers_count": 5291,
-    "open_issues_count": 247,
+    "stargazers_count": 5295,
+    "open_issues_count": 241,
     "forks_count": 609
   },
   {
     "full_name": "emmericp/MoonGen",
-    "stargazers_count": 968,
+    "stargazers_count": 970,
     "open_issues_count": 79,
     "forks_count": 218
   },
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "vercel/hyper",
-    "stargazers_count": 40906,
-    "open_issues_count": 894,
-    "forks_count": 3436
+    "stargazers_count": 40928,
+    "open_issues_count": 902,
+    "forks_count": 3439
   },
   {
     "full_name": "mas-cli/mas",
-    "stargazers_count": 9821,
+    "stargazers_count": 9830,
     "open_issues_count": 82,
     "forks_count": 254
   },
@@ -157,25 +157,25 @@
   },
   {
     "full_name": "cheat/cheat",
-    "stargazers_count": 10786,
+    "stargazers_count": 10793,
     "open_issues_count": 39,
-    "forks_count": 786
+    "forks_count": 787
   },
   {
     "full_name": "httpie/httpie",
-    "stargazers_count": 27773,
-    "open_issues_count": 154,
-    "forks_count": 3765
+    "stargazers_count": 27816,
+    "open_issues_count": 148,
+    "forks_count": 3766
   },
   {
     "full_name": "ducaale/xh",
-    "stargazers_count": 3744,
+    "stargazers_count": 3747,
     "open_issues_count": 33,
     "forks_count": 74
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 5106,
+    "stargazers_count": 5116,
     "open_issues_count": 64,
     "forks_count": 121
   }
