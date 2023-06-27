@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "DerekSelander/LLDB",
+    "stargazers_count": 1625,
+    "open_issues_count": 12,
+    "forks_count": 180
+  },
+  {
     "full_name": "iptv-org/awesome-iptv",
-    "stargazers_count": 4668,
-    "open_issues_count": 3,
-    "forks_count": 680
+    "stargazers_count": 4685,
+    "open_issues_count": 1,
+    "forks_count": 681
   },
   {
     "full_name": "GigayasaWireless/toolkit5G",
@@ -13,27 +19,27 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 244905,
-    "open_issues_count": 183,
-    "forks_count": 27991
+    "stargazers_count": 245189,
+    "open_issues_count": 185,
+    "forks_count": 28036
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 205456,
+    "stargazers_count": 206404,
     "open_issues_count": 280,
-    "forks_count": 20035
+    "forks_count": 20167
   },
   {
     "full_name": "zhiwehu/Python-programming-exercises",
-    "stargazers_count": 23854,
+    "stargazers_count": 23884,
     "open_issues_count": 153,
-    "forks_count": 6624
+    "forks_count": 6623
   },
   {
     "full_name": "viatsko/awesome-vscode",
-    "stargazers_count": 22638,
-    "open_issues_count": 67,
-    "forks_count": 1187
+    "stargazers_count": 22652,
+    "open_issues_count": 65,
+    "forks_count": 1186
   },
   {
     "full_name": "jpr5/ngrep",
@@ -43,79 +49,79 @@
   },
   {
     "full_name": "compiler-explorer/compiler-explorer",
-    "stargazers_count": 13417,
-    "open_issues_count": 621,
-    "forks_count": 1497
+    "stargazers_count": 13435,
+    "open_issues_count": 614,
+    "forks_count": 1499
   },
   {
     "full_name": "skills/introduction-to-github",
-    "stargazers_count": 2835,
+    "stargazers_count": 2840,
     "open_issues_count": 4,
-    "forks_count": 1098
+    "forks_count": 1109
   },
   {
     "full_name": "Endava/cats",
-    "stargazers_count": 948,
-    "open_issues_count": 2,
-    "forks_count": 63
+    "stargazers_count": 949,
+    "open_issues_count": 1,
+    "forks_count": 64
   },
   {
     "full_name": "mathiasbynens/dotfiles",
-    "stargazers_count": 29086,
+    "stargazers_count": 29098,
     "open_issues_count": 188,
-    "forks_count": 8812
+    "forks_count": 8813
   },
   {
     "full_name": "solidiquis/erdtree",
-    "stargazers_count": 1943,
+    "stargazers_count": 1944,
     "open_issues_count": 13,
     "forks_count": 57
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 82858,
-    "open_issues_count": 9653,
-    "forks_count": 10988
+    "stargazers_count": 82976,
+    "open_issues_count": 9649,
+    "forks_count": 11023
   },
   {
     "full_name": "my5G/my5G-RANTester",
-    "stargazers_count": 55,
+    "stargazers_count": 56,
     "open_issues_count": 11,
     "forks_count": 25
   },
   {
     "full_name": "esnet/iperf",
-    "stargazers_count": 5439,
+    "stargazers_count": 5441,
     "open_issues_count": 165,
-    "forks_count": 1135
+    "forks_count": 1137
   },
   {
     "full_name": "scrapy/scrapy",
-    "stargazers_count": 47584,
-    "open_issues_count": 715,
-    "forks_count": 10026
+    "stargazers_count": 47614,
+    "open_issues_count": 713,
+    "forks_count": 10028
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 61213,
-    "open_issues_count": 2740,
-    "forks_count": 23562
+    "stargazers_count": 61261,
+    "open_issues_count": 2731,
+    "forks_count": 23605
   },
   {
     "full_name": "pytorch/pytorch",
-    "stargazers_count": 68073,
-    "open_issues_count": 12178,
-    "forks_count": 18664
+    "stargazers_count": 68202,
+    "open_issues_count": 12190,
+    "forks_count": 18693
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 71574,
-    "open_issues_count": 144,
-    "forks_count": 29413
+    "stargazers_count": 71657,
+    "open_issues_count": 148,
+    "forks_count": 29446
   },
   {
     "full_name": "Shra1V32/TataSky-Playlist-AutoUpdater",
-    "stargazers_count": 442,
+    "stargazers_count": 443,
     "open_issues_count": 0,
     "forks_count": 69
   },
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "mikeroyal/Apple-Silicon-Guide",
-    "stargazers_count": 1188,
+    "stargazers_count": 1193,
     "open_issues_count": 2,
-    "forks_count": 64
+    "forks_count": 66
   },
   {
     "full_name": "Sonelli/juicessh-performancemonitor",
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "osxfuse/osxfuse",
-    "stargazers_count": 8137,
+    "stargazers_count": 8144,
     "open_issues_count": 135,
     "forks_count": 508
   },
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "rxhanson/Rectangle",
-    "stargazers_count": 21504,
-    "open_issues_count": 73,
-    "forks_count": 620
+    "stargazers_count": 21549,
+    "open_issues_count": 74,
+    "forks_count": 621
   },
   {
     "full_name": "iina/iina",
-    "stargazers_count": 33552,
-    "open_issues_count": 1596,
-    "forks_count": 2423
+    "stargazers_count": 33589,
+    "open_issues_count": 1598,
+    "forks_count": 2427
   },
   {
     "full_name": "serhii-londar/open-source-mac-os-apps",
-    "stargazers_count": 35850,
+    "stargazers_count": 35905,
     "open_issues_count": 85,
-    "forks_count": 2198
+    "forks_count": 2199
   },
   {
     "full_name": "ntop/ntopng",
-    "stargazers_count": 5366,
-    "open_issues_count": 223,
+    "stargazers_count": 5371,
+    "open_issues_count": 220,
     "forks_count": 613
-  },
-  {
-    "full_name": "emmericp/MoonGen",
-    "stargazers_count": 974,
-    "open_issues_count": 79,
-    "forks_count": 219
   }
 ]
