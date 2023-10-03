@@ -1,21 +1,21 @@
 [
   {
     "full_name": "stax76/awesome-mpv",
-    "stargazers_count": 311,
-    "open_issues_count": 1,
+    "stargazers_count": 316,
+    "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "mopidy/mopidy",
-    "stargazers_count": 7782,
+    "stargazers_count": 7784,
     "open_issues_count": 206,
     "forks_count": 688
   },
   {
     "full_name": "apple/swift",
-    "stargazers_count": 64117,
-    "open_issues_count": 6771,
-    "forks_count": 10296
+    "stargazers_count": 64155,
+    "open_issues_count": 6778,
+    "forks_count": 10303
   },
   {
     "full_name": "DerekSelander/LLDB",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "iptv-org/awesome-iptv",
-    "stargazers_count": 5009,
-    "open_issues_count": 3,
+    "stargazers_count": 5026,
+    "open_issues_count": 4,
     "forks_count": 709
   },
   {
@@ -37,25 +37,25 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 258394,
-    "open_issues_count": 193,
-    "forks_count": 29347
+    "stargazers_count": 258625,
+    "open_issues_count": 195,
+    "forks_count": 29390
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 218203,
-    "open_issues_count": 281,
-    "forks_count": 21206
+    "stargazers_count": 218987,
+    "open_issues_count": 283,
+    "forks_count": 21261
   },
   {
     "full_name": "zhiwehu/Python-programming-exercises",
-    "stargazers_count": 24444,
+    "stargazers_count": 24478,
     "open_issues_count": 155,
-    "forks_count": 6679
+    "forks_count": 6682
   },
   {
     "full_name": "viatsko/awesome-vscode",
-    "stargazers_count": 23126,
+    "stargazers_count": 23149,
     "open_issues_count": 68,
     "forks_count": 1198
   },
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "compiler-explorer/compiler-explorer",
-    "stargazers_count": 13944,
-    "open_issues_count": 674,
-    "forks_count": 1558
+    "stargazers_count": 13954,
+    "open_issues_count": 691,
+    "forks_count": 1562
   },
   {
     "full_name": "skills/introduction-to-github",
-    "stargazers_count": 3194,
-    "open_issues_count": 4,
-    "forks_count": 1356
+    "stargazers_count": 3208,
+    "open_issues_count": 5,
+    "forks_count": 1359
   },
   {
     "full_name": "Endava/cats",
-    "stargazers_count": 991,
+    "stargazers_count": 992,
     "open_issues_count": 4,
     "forks_count": 68
   },
   {
     "full_name": "mathiasbynens/dotfiles",
-    "stargazers_count": 29326,
+    "stargazers_count": 29334,
     "open_issues_count": 186,
-    "forks_count": 8820
+    "forks_count": 8819
   },
   {
     "full_name": "solidiquis/erdtree",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 85701,
+    "stargazers_count": 85804,
     "open_issues_count": 9584,
-    "forks_count": 11349
+    "forks_count": 11358
   },
   {
     "full_name": "my5G/my5G-RANTester",
@@ -109,39 +109,39 @@
   },
   {
     "full_name": "esnet/iperf",
-    "stargazers_count": 5718,
+    "stargazers_count": 5723,
     "open_issues_count": 169,
-    "forks_count": 1166
+    "forks_count": 1167
   },
   {
     "full_name": "scrapy/scrapy",
-    "stargazers_count": 48591,
-    "open_issues_count": 717,
-    "forks_count": 10181
+    "stargazers_count": 48656,
+    "open_issues_count": 716,
+    "forks_count": 10212
   },
   {
     "full_name": "home-assistant/core",
-    "stargazers_count": 63128,
-    "open_issues_count": 2617,
-    "forks_count": 24877
+    "stargazers_count": 63266,
+    "open_issues_count": 2635,
+    "forks_count": 24925
   },
   {
     "full_name": "pytorch/pytorch",
-    "stargazers_count": 71156,
-    "open_issues_count": 12792,
-    "forks_count": 19597
+    "stargazers_count": 71254,
+    "open_issues_count": 12805,
+    "forks_count": 19620
   },
   {
     "full_name": "django/django",
-    "stargazers_count": 73292,
-    "open_issues_count": 144,
-    "forks_count": 30035
+    "stargazers_count": 73351,
+    "open_issues_count": 148,
+    "forks_count": 30055
   },
   {
     "full_name": "Shra1V32/TataSky-Playlist-AutoUpdater",
-    "stargazers_count": 507,
+    "stargazers_count": 511,
     "open_issues_count": 0,
-    "forks_count": 78
+    "forks_count": 79
   },
   {
     "full_name": "SabBits/FIFA-WorldCUP",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "mikeroyal/Apple-Silicon-Guide",
-    "stargazers_count": 1315,
+    "stargazers_count": 1318,
     "open_issues_count": 2,
     "forks_count": 77
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "osxfuse/osxfuse",
-    "stargazers_count": 8240,
+    "stargazers_count": 8247,
     "open_issues_count": 140,
     "forks_count": 508
   },
   {
     "full_name": "yep/app-downloader",
-    "stargazers_count": 291,
+    "stargazers_count": 292,
     "open_issues_count": 0,
     "forks_count": 18
   },
   {
     "full_name": "rxhanson/Rectangle",
-    "stargazers_count": 22357,
+    "stargazers_count": 22392,
     "open_issues_count": 97,
     "forks_count": 647
   }
