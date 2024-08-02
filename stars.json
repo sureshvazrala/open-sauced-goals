@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "iCHAIT/awesome-macOS",
+    "stargazers_count": 15727,
+    "open_issues_count": 9,
+    "forks_count": 1062
+  },
+  {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 62905,
+    "stargazers_count": 62950,
     "open_issues_count": 113,
-    "forks_count": 12850
+    "forks_count": 12857
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 114669,
+    "stargazers_count": 114811,
     "open_issues_count": 41,
-    "forks_count": 14383
+    "forks_count": 14402
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 69417,
+    "stargazers_count": 69495,
     "open_issues_count": 51,
-    "forks_count": 8785
+    "forks_count": 8794
   },
   {
     "full_name": "lencx/Noi",
-    "stargazers_count": 5684,
+    "stargazers_count": 5726,
     "open_issues_count": 81,
-    "forks_count": 408
+    "forks_count": 409
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 107614,
-    "open_issues_count": 286,
-    "forks_count": 14739
+    "stargazers_count": 107708,
+    "open_issues_count": 285,
+    "forks_count": 14756
   },
   {
     "full_name": "d2phap/FileWatcherEx",
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "tstack/lnav",
-    "stargazers_count": 7219,
-    "open_issues_count": 252,
+    "stargazers_count": 7230,
+    "open_issues_count": 255,
     "forks_count": 295
   },
   {
@@ -49,33 +55,33 @@
   },
   {
     "full_name": "guarinogabriel/Mac-CLI",
-    "stargazers_count": 8846,
+    "stargazers_count": 8847,
     "open_issues_count": 0,
     "forks_count": 336
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 42663,
-    "open_issues_count": 2487,
-    "forks_count": 2275
+    "stargazers_count": 42945,
+    "open_issues_count": 2545,
+    "forks_count": 2298
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 32463,
-    "open_issues_count": 28,
-    "forks_count": 3373
+    "stargazers_count": 32487,
+    "open_issues_count": 25,
+    "forks_count": 3374
   },
   {
     "full_name": "tree-sitter/tree-sitter",
-    "stargazers_count": 17457,
-    "open_issues_count": 346,
-    "forks_count": 1301
+    "stargazers_count": 17501,
+    "open_issues_count": 345,
+    "forks_count": 1302
   },
   {
     "full_name": "isocpp/CppCoreGuidelines",
-    "stargazers_count": 42189,
+    "stargazers_count": 42208,
     "open_issues_count": 248,
-    "forks_count": 5410
+    "forks_count": 5413
   },
   {
     "full_name": "proj3rd/proj3rd",
@@ -85,19 +91,19 @@
   },
   {
     "full_name": "alexanderepstein/Bash-Snippets",
-    "stargazers_count": 9588,
+    "stargazers_count": 9590,
     "open_issues_count": 9,
-    "forks_count": 843
+    "forks_count": 844
   },
   {
     "full_name": "thibmaek/awesome-raspberry-pi",
-    "stargazers_count": 13125,
+    "stargazers_count": 13134,
     "open_issues_count": 3,
-    "forks_count": 1001
+    "forks_count": 1000
   },
   {
     "full_name": "stax76/awesome-mpv",
-    "stargazers_count": 872,
+    "stargazers_count": 874,
     "open_issues_count": 0,
     "forks_count": 20
   },
@@ -109,21 +115,21 @@
   },
   {
     "full_name": "swiftlang/swift",
-    "stargazers_count": 67063,
-    "open_issues_count": 7440,
-    "forks_count": 10327
+    "stargazers_count": 67086,
+    "open_issues_count": 7454,
+    "forks_count": 10330
   },
   {
     "full_name": "DerekSelander/LLDB",
-    "stargazers_count": 1759,
+    "stargazers_count": 1761,
     "open_issues_count": 13,
     "forks_count": 197
   },
   {
     "full_name": "iptv-org/awesome-iptv",
-    "stargazers_count": 6693,
-    "open_issues_count": 11,
-    "forks_count": 776
+    "stargazers_count": 6705,
+    "open_issues_count": 8,
+    "forks_count": 780
   },
   {
     "full_name": "GigayasaWireless/toolkit5G",
@@ -133,25 +139,25 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 307400,
-    "open_issues_count": 307,
-    "forks_count": 32904
+    "stargazers_count": 308070,
+    "open_issues_count": 309,
+    "forks_count": 32966
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 291000,
-    "open_issues_count": 331,
-    "forks_count": 27335
+    "stargazers_count": 291644,
+    "open_issues_count": 333,
+    "forks_count": 27400
   },
   {
     "full_name": "zhiwehu/Python-programming-exercises",
-    "stargazers_count": 26411,
+    "stargazers_count": 26421,
     "open_issues_count": 152,
-    "forks_count": 6780
+    "forks_count": 6783
   },
   {
     "full_name": "viatsko/awesome-vscode",
-    "stargazers_count": 24655,
+    "stargazers_count": 24670,
     "open_issues_count": 69,
     "forks_count": 1203
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "compiler-explorer/compiler-explorer",
-    "stargazers_count": 15776,
-    "open_issues_count": 767,
-    "forks_count": 1676
+    "stargazers_count": 15794,
+    "open_issues_count": 768,
+    "forks_count": 1681
   },
   {
     "full_name": "skills/introduction-to-github",
-    "stargazers_count": 4192,
-    "open_issues_count": 1,
-    "forks_count": 1786
-  },
-  {
-    "full_name": "Endava/cats",
-    "stargazers_count": 1116,
-    "open_issues_count": 3,
-    "forks_count": 73
+    "stargazers_count": 4201,
+    "open_issues_count": 0,
+    "forks_count": 1797
   }
 ]
