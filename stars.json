@@ -1,55 +1,61 @@
 [
   {
+    "full_name": "srsran/srsRAN_matlab",
+    "stargazers_count": 25,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
     "full_name": "jondot/awesome-devenv",
-    "stargazers_count": 2807,
+    "stargazers_count": 2810,
     "open_issues_count": 23,
     "forks_count": 186
   },
   {
     "full_name": "k4m4/terminals-are-sexy",
-    "stargazers_count": 12138,
+    "stargazers_count": 12141,
     "open_issues_count": 117,
     "forks_count": 605
   },
   {
     "full_name": "Light-City/CPlusPlusThings",
-    "stargazers_count": 38539,
+    "stargazers_count": 38570,
     "open_issues_count": 8,
-    "forks_count": 8419
+    "forks_count": 8421
   },
   {
     "full_name": "dofy/learn-vim",
-    "stargazers_count": 1673,
+    "stargazers_count": 1675,
     "open_issues_count": 0,
     "forks_count": 238
   },
   {
     "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 684,
+    "stargazers_count": 687,
     "open_issues_count": 20,
     "forks_count": 14
   },
   {
     "full_name": "ejbills/DockDoor",
-    "stargazers_count": 898,
-    "open_issues_count": 37,
+    "stargazers_count": 906,
+    "open_issues_count": 33,
     "forks_count": 26
   },
   {
     "full_name": "WerWolv/ImHex",
-    "stargazers_count": 42393,
-    "open_issues_count": 287,
-    "forks_count": 1862
+    "stargazers_count": 42426,
+    "open_issues_count": 289,
+    "forks_count": 1866
   },
   {
     "full_name": "LinkedInLearning/learning-cpp-4489005",
     "stargazers_count": 26,
     "open_issues_count": 0,
-    "forks_count": 805
+    "forks_count": 820
   },
   {
     "full_name": "salmer/CppDeveloperRoadmap",
-    "stargazers_count": 2783,
+    "stargazers_count": 2786,
     "open_issues_count": 7,
     "forks_count": 287
   },
@@ -67,87 +73,87 @@
   },
   {
     "full_name": "neoclide/coc.nvim",
-    "stargazers_count": 24252,
-    "open_issues_count": 40,
+    "stargazers_count": 24262,
+    "open_issues_count": 45,
     "forks_count": 955
   },
   {
     "full_name": "preservim/nerdtree",
-    "stargazers_count": 19489,
-    "open_issues_count": 20,
+    "stargazers_count": 19492,
+    "open_issues_count": 21,
     "forks_count": 1438
   },
   {
     "full_name": "mhinz/vim-galore",
-    "stargazers_count": 16669,
+    "stargazers_count": 16677,
     "open_issues_count": 9,
     "forks_count": 602
   },
   {
     "full_name": "ranger/ranger",
-    "stargazers_count": 15302,
+    "stargazers_count": 15306,
     "open_issues_count": 905,
-    "forks_count": 884
+    "forks_count": 883
   },
   {
     "full_name": "NvChad/NvChad",
-    "stargazers_count": 24056,
+    "stargazers_count": 24086,
     "open_issues_count": 0,
-    "forks_count": 2102
+    "forks_count": 2100
   },
   {
     "full_name": "helix-editor/helix",
-    "stargazers_count": 32274,
-    "open_issues_count": 831,
-    "forks_count": 2382
+    "stargazers_count": 32339,
+    "open_issues_count": 839,
+    "forks_count": 2381
   },
   {
     "full_name": "LeCoupa/awesome-cheatsheets",
-    "stargazers_count": 39093,
-    "open_issues_count": 110,
-    "forks_count": 6096
+    "stargazers_count": 39140,
+    "open_issues_count": 111,
+    "forks_count": 6105
   },
   {
     "full_name": "vim/vim",
-    "stargazers_count": 35902,
-    "open_issues_count": 1545,
-    "forks_count": 5371
+    "stargazers_count": 35926,
+    "open_issues_count": 1549,
+    "forks_count": 5374
   },
   {
     "full_name": "iCHAIT/awesome-macOS",
-    "stargazers_count": 15794,
+    "stargazers_count": 15808,
     "open_issues_count": 9,
-    "forks_count": 1062
+    "forks_count": 1063
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 63094,
+    "stargazers_count": 63137,
     "open_issues_count": 113,
-    "forks_count": 12880
+    "forks_count": 12886
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 115446,
+    "stargazers_count": 115626,
     "open_issues_count": 41,
-    "forks_count": 14448
+    "forks_count": 14466
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 69850,
+    "stargazers_count": 69916,
     "open_issues_count": 51,
-    "forks_count": 8816
+    "forks_count": 8823
   },
   {
     "full_name": "lencx/Noi",
-    "stargazers_count": 5852,
+    "stargazers_count": 5876,
     "open_issues_count": 86,
-    "forks_count": 419
+    "forks_count": 420
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 108235,
+    "stargazers_count": 108330,
     "open_issues_count": 286,
-    "forks_count": 14834
+    "forks_count": 14846
   },
   {
     "full_name": "sureshvazrala/My-CPP",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "tstack/lnav",
-    "stargazers_count": 7288,
+    "stargazers_count": 7308,
     "open_issues_count": 256,
     "forks_count": 296
   },
   {
     "full_name": "hardikvasa/google-images-download",
-    "stargazers_count": 8536,
+    "stargazers_count": 8537,
     "open_issues_count": 140,
-    "forks_count": 2096
-  },
-  {
-    "full_name": "guarinogabriel/Mac-CLI",
-    "stargazers_count": 8854,
-    "open_issues_count": 1,
-    "forks_count": 334
+    "forks_count": 2097
   }
 ]
