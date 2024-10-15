@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "alyssaxuu/later",
+    "stargazers_count": 1525,
+    "open_issues_count": 19,
+    "forks_count": 66
+  },
+  {
+    "full_name": "zellij-org/zellij",
+    "stargazers_count": 21146,
+    "open_issues_count": 1008,
+    "forks_count": 643
+  },
+  {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 46387,
-    "open_issues_count": 13,
-    "forks_count": 2735
+    "stargazers_count": 46467,
+    "open_issues_count": 12,
+    "forks_count": 2738
   },
   {
     "full_name": "intel/FlexRAN",
@@ -13,13 +25,13 @@
   },
   {
     "full_name": "srsran/srsRAN_Project",
-    "stargazers_count": 491,
-    "open_issues_count": 31,
-    "forks_count": 166
+    "stargazers_count": 495,
+    "open_issues_count": 35,
+    "forks_count": 167
   },
   {
     "full_name": "Darkempire78/OpenCalc",
-    "stargazers_count": 852,
+    "stargazers_count": 854,
     "open_issues_count": 43,
     "forks_count": 99
   },
@@ -37,33 +49,33 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 83234,
+    "stargazers_count": 83273,
     "open_issues_count": 110,
-    "forks_count": 12323
+    "forks_count": 12318
   },
   {
     "full_name": "amitshekhariitbhu/android-developer-roadmap",
-    "stargazers_count": 2781,
+    "stargazers_count": 2782,
     "open_issues_count": 17,
     "forks_count": 499
   },
   {
     "full_name": "iBotPeaches/Apktool",
-    "stargazers_count": 20007,
+    "stargazers_count": 20034,
     "open_issues_count": 76,
-    "forks_count": 3572
+    "forks_count": 3575
   },
   {
     "full_name": "Psyhackological/AAA",
-    "stargazers_count": 1716,
+    "stargazers_count": 1725,
     "open_issues_count": 1,
     "forks_count": 32
   },
   {
     "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4662,
+    "stargazers_count": 4669,
     "open_issues_count": 7,
-    "forks_count": 762
+    "forks_count": 764
   },
   {
     "full_name": "banga/git-split-diffs",
@@ -73,15 +85,15 @@
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 17969,
-    "open_issues_count": 589,
-    "forks_count": 1402
+    "stargazers_count": 18111,
+    "open_issues_count": 590,
+    "forks_count": 1428
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 163323,
-    "open_issues_count": 10180,
-    "forks_count": 28901
+    "stargazers_count": 163419,
+    "open_issues_count": 10232,
+    "forks_count": 28948
   },
   {
     "full_name": "srsran/srsRAN_matlab",
@@ -91,21 +103,21 @@
   },
   {
     "full_name": "jondot/awesome-devenv",
-    "stargazers_count": 2830,
+    "stargazers_count": 2831,
     "open_issues_count": 23,
     "forks_count": 186
   },
   {
     "full_name": "k4m4/terminals-are-sexy",
-    "stargazers_count": 12226,
+    "stargazers_count": 12234,
     "open_issues_count": 117,
     "forks_count": 606
   },
   {
     "full_name": "Light-City/CPlusPlusThings",
-    "stargazers_count": 39080,
+    "stargazers_count": 39133,
     "open_issues_count": 7,
-    "forks_count": 8492
+    "forks_count": 8501
   },
   {
     "full_name": "dofy/learn-vim",
@@ -115,33 +127,33 @@
   },
   {
     "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 747,
+    "stargazers_count": 749,
     "open_issues_count": 19,
     "forks_count": 14
   },
   {
     "full_name": "ejbills/DockDoor",
-    "stargazers_count": 1113,
-    "open_issues_count": 31,
+    "stargazers_count": 1125,
+    "open_issues_count": 33,
     "forks_count": 30
   },
   {
     "full_name": "WerWolv/ImHex",
-    "stargazers_count": 44106,
+    "stargazers_count": 44461,
     "open_issues_count": 226,
-    "forks_count": 1925
+    "forks_count": 1937
   },
   {
     "full_name": "LinkedInLearning/learning-cpp-4489005",
     "stargazers_count": 34,
     "open_issues_count": 0,
-    "forks_count": 1018
+    "forks_count": 1036
   },
   {
     "full_name": "salmer/CppDeveloperRoadmap",
-    "stargazers_count": 2881,
+    "stargazers_count": 2886,
     "open_issues_count": 7,
-    "forks_count": 292
+    "forks_count": 293
   },
   {
     "full_name": "gf3/dotfiles",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "neoclide/coc.nvim",
-    "stargazers_count": 24382,
+    "stargazers_count": 24389,
     "open_issues_count": 36,
-    "forks_count": 953
+    "forks_count": 954
   },
   {
     "full_name": "preservim/nerdtree",
-    "stargazers_count": 19579,
-    "open_issues_count": 26,
-    "forks_count": 1442
-  },
-  {
-    "full_name": "mhinz/vim-galore",
-    "stargazers_count": 16802,
-    "open_issues_count": 9,
-    "forks_count": 604
-  },
-  {
-    "full_name": "ranger/ranger",
-    "stargazers_count": 15491,
-    "open_issues_count": 916,
-    "forks_count": 888
+    "stargazers_count": 19589,
+    "open_issues_count": 25,
+    "forks_count": 1443
   }
 ]
