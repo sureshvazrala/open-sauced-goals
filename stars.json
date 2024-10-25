@@ -1,9 +1,9 @@
 [
   {
     "full_name": "casualsnek/waydroid_script",
-    "stargazers_count": 1773,
+    "stargazers_count": 1781,
     "open_issues_count": 98,
-    "forks_count": 167
+    "forks_count": 168
   },
   {
     "full_name": "opengapps/opengapps",
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "alyssaxuu/later",
-    "stargazers_count": 1531,
+    "stargazers_count": 1533,
     "open_issues_count": 20,
     "forks_count": 66
   },
   {
     "full_name": "zellij-org/zellij",
-    "stargazers_count": 21232,
-    "open_issues_count": 1009,
-    "forks_count": 644
+    "stargazers_count": 21307,
+    "open_issues_count": 1008,
+    "forks_count": 646
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 46594,
+    "stargazers_count": 46648,
     "open_issues_count": 11,
-    "forks_count": 2746
+    "forks_count": 2749
   },
   {
     "full_name": "intel/FlexRAN",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "srsran/srsRAN_Project",
-    "stargazers_count": 506,
-    "open_issues_count": 33,
+    "stargazers_count": 510,
+    "open_issues_count": 37,
     "forks_count": 170
   },
   {
     "full_name": "Darkempire78/OpenCalc",
-    "stargazers_count": 858,
-    "open_issues_count": 41,
-    "forks_count": 99
+    "stargazers_count": 862,
+    "open_issues_count": 42,
+    "forks_count": 100
   },
   {
     "full_name": "aritraroy/UltimateAndroidReference",
@@ -61,31 +61,31 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 83316,
+    "stargazers_count": 83345,
     "open_issues_count": 110,
     "forks_count": 12319
   },
   {
     "full_name": "amitshekhariitbhu/android-developer-roadmap",
-    "stargazers_count": 2783,
+    "stargazers_count": 2785,
     "open_issues_count": 17,
     "forks_count": 499
   },
   {
     "full_name": "iBotPeaches/Apktool",
-    "stargazers_count": 20080,
+    "stargazers_count": 20098,
     "open_issues_count": 75,
-    "forks_count": 3576
+    "forks_count": 3575
   },
   {
     "full_name": "Psyhackological/AAA",
-    "stargazers_count": 1737,
+    "stargazers_count": 1739,
     "open_issues_count": 2,
     "forks_count": 32
   },
   {
     "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4676,
+    "stargazers_count": 4670,
     "open_issues_count": 7,
     "forks_count": 766
   },
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 18345,
-    "open_issues_count": 629,
-    "forks_count": 1494
+    "stargazers_count": 18447,
+    "open_issues_count": 640,
+    "forks_count": 1525
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 163606,
-    "open_issues_count": 10341,
-    "forks_count": 29034
+    "stargazers_count": 163705,
+    "open_issues_count": 10377,
+    "forks_count": 29083
   },
   {
     "full_name": "srsran/srsRAN_matlab",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "k4m4/terminals-are-sexy",
-    "stargazers_count": 12249,
-    "open_issues_count": 117,
-    "forks_count": 605
+    "stargazers_count": 12256,
+    "open_issues_count": 118,
+    "forks_count": 606
   },
   {
     "full_name": "Light-City/CPlusPlusThings",
-    "stargazers_count": 39212,
+    "stargazers_count": 39256,
     "open_issues_count": 7,
-    "forks_count": 8511
+    "forks_count": 8517
   },
   {
     "full_name": "dofy/learn-vim",
@@ -139,37 +139,37 @@
   },
   {
     "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 754,
+    "stargazers_count": 755,
     "open_issues_count": 19,
     "forks_count": 14
   },
   {
     "full_name": "ejbills/DockDoor",
-    "stargazers_count": 1226,
-    "open_issues_count": 41,
+    "stargazers_count": 1295,
+    "open_issues_count": 45,
     "forks_count": 32
   },
   {
     "full_name": "WerWolv/ImHex",
-    "stargazers_count": 44601,
-    "open_issues_count": 230,
-    "forks_count": 1944
+    "stargazers_count": 44662,
+    "open_issues_count": 229,
+    "forks_count": 1945
   },
   {
     "full_name": "LinkedInLearning/learning-cpp-4489005",
     "stargazers_count": 36,
     "open_issues_count": 0,
-    "forks_count": 1056
+    "forks_count": 1064
   },
   {
     "full_name": "salmer/CppDeveloperRoadmap",
-    "stargazers_count": 2888,
+    "stargazers_count": 2889,
     "open_issues_count": 7,
-    "forks_count": 294
+    "forks_count": 295
   },
   {
     "full_name": "gf3/dotfiles",
-    "stargazers_count": 1068,
+    "stargazers_count": 1070,
     "open_issues_count": 2,
     "forks_count": 115
   },
