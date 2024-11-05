@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "N00Bception/AI-Powered-5G-OpenRAN-Optimizer",
+    "stargazers_count": 38,
+    "open_issues_count": 3,
+    "forks_count": 15
+  },
+  {
     "full_name": "casualsnek/waydroid_script",
-    "stargazers_count": 1803,
-    "open_issues_count": 98,
+    "stargazers_count": 1813,
+    "open_issues_count": 99,
     "forks_count": 167
   },
   {
     "full_name": "opengapps/opengapps",
-    "stargazers_count": 5824,
-    "open_issues_count": 29,
-    "forks_count": 1001
+    "stargazers_count": 5826,
+    "open_issues_count": 30,
+    "forks_count": 1000
   },
   {
     "full_name": "alyssaxuu/later",
@@ -19,19 +25,19 @@
   },
   {
     "full_name": "zellij-org/zellij",
-    "stargazers_count": 21399,
-    "open_issues_count": 1003,
-    "forks_count": 650
+    "stargazers_count": 21502,
+    "open_issues_count": 1007,
+    "forks_count": 651
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 46764,
-    "open_issues_count": 12,
-    "forks_count": 2756
+    "stargazers_count": 46807,
+    "open_issues_count": 11,
+    "forks_count": 2757
   },
   {
     "full_name": "intel/FlexRAN",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 12,
     "forks_count": 42
   },
@@ -39,17 +45,17 @@
     "full_name": "srsran/srsRAN_Project",
     "stargazers_count": 514,
     "open_issues_count": 22,
-    "forks_count": 173
+    "forks_count": 174
   },
   {
     "full_name": "Darkempire78/OpenCalc",
-    "stargazers_count": 866,
+    "stargazers_count": 868,
     "open_issues_count": 41,
     "forks_count": 100
   },
   {
     "full_name": "aritraroy/UltimateAndroidReference",
-    "stargazers_count": 7850,
+    "stargazers_count": 7851,
     "open_issues_count": 15,
     "forks_count": 1292
   },
@@ -61,51 +67,51 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 83476,
+    "stargazers_count": 83501,
     "open_issues_count": 111,
     "forks_count": 12341
   },
   {
     "full_name": "amitshekhariitbhu/android-developer-roadmap",
-    "stargazers_count": 2786,
+    "stargazers_count": 2789,
     "open_issues_count": 16,
     "forks_count": 499
   },
   {
     "full_name": "iBotPeaches/Apktool",
-    "stargazers_count": 20150,
+    "stargazers_count": 20172,
     "open_issues_count": 76,
-    "forks_count": 3578
+    "forks_count": 3584
   },
   {
     "full_name": "Psyhackological/AAA",
-    "stargazers_count": 1759,
+    "stargazers_count": 1771,
     "open_issues_count": 1,
     "forks_count": 32
   },
   {
     "full_name": "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
-    "stargazers_count": 4675,
+    "stargazers_count": 4673,
     "open_issues_count": 7,
-    "forks_count": 770
+    "forks_count": 772
   },
   {
     "full_name": "banga/git-split-diffs",
-    "stargazers_count": 2601,
+    "stargazers_count": 2602,
     "open_issues_count": 7,
     "forks_count": 43
   },
   {
     "full_name": "continuedev/continue",
-    "stargazers_count": 18717,
-    "open_issues_count": 662,
-    "forks_count": 1581
+    "stargazers_count": 18832,
+    "open_issues_count": 682,
+    "forks_count": 1593
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 163934,
-    "open_issues_count": 10350,
-    "forks_count": 29176
+    "stargazers_count": 164070,
+    "open_issues_count": 10414,
+    "forks_count": 29210
   },
   {
     "full_name": "srsran/srsRAN_matlab",
@@ -115,68 +121,62 @@
   },
   {
     "full_name": "jondot/awesome-devenv",
-    "stargazers_count": 2838,
+    "stargazers_count": 2839,
     "open_issues_count": 23,
     "forks_count": 186
   },
   {
     "full_name": "k4m4/terminals-are-sexy",
-    "stargazers_count": 12269,
+    "stargazers_count": 12270,
     "open_issues_count": 117,
-    "forks_count": 605
+    "forks_count": 604
   },
   {
     "full_name": "Light-City/CPlusPlusThings",
-    "stargazers_count": 39337,
+    "stargazers_count": 39375,
     "open_issues_count": 7,
-    "forks_count": 8528
+    "forks_count": 8532
   },
   {
     "full_name": "dofy/learn-vim",
-    "stargazers_count": 1684,
+    "stargazers_count": 1685,
     "open_issues_count": 0,
     "forks_count": 237
   },
   {
     "full_name": "zenangst/KeyboardCowboy",
-    "stargazers_count": 763,
+    "stargazers_count": 772,
     "open_issues_count": 24,
     "forks_count": 14
   },
   {
     "full_name": "ejbills/DockDoor",
-    "stargazers_count": 1387,
-    "open_issues_count": 45,
+    "stargazers_count": 1422,
+    "open_issues_count": 47,
     "forks_count": 34
   },
   {
     "full_name": "WerWolv/ImHex",
-    "stargazers_count": 44752,
-    "open_issues_count": 228,
-    "forks_count": 1949
+    "stargazers_count": 44792,
+    "open_issues_count": 227,
+    "forks_count": 1947
   },
   {
     "full_name": "LinkedInLearning/learning-cpp-4489005",
     "stargazers_count": 35,
     "open_issues_count": 1,
-    "forks_count": 1086
+    "forks_count": 1097
   },
   {
     "full_name": "salmer/CppDeveloperRoadmap",
-    "stargazers_count": 2899,
+    "stargazers_count": 2904,
     "open_issues_count": 7,
-    "forks_count": 297
+    "forks_count": 299
   },
   {
     "full_name": "gf3/dotfiles",
-    "stargazers_count": 1070,
+    "stargazers_count": 1071,
     "open_issues_count": 2,
     "forks_count": 116
-  },
-  {
-    "full_name": "Nitestack/dotfiles",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
