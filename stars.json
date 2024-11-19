@@ -1,73 +1,85 @@
 [
   {
+    "full_name": "DataExpert-io/data-engineer-handbook",
+    "stargazers_count": 17170,
+    "open_issues_count": 14,
+    "forks_count": 2572
+  },
+  {
+    "full_name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "stargazers_count": 4862,
+    "open_issues_count": 9,
+    "forks_count": 958
+  },
+  {
     "full_name": "JioTV-Go/jiotv_go",
-    "stargazers_count": 381,
-    "open_issues_count": 15,
+    "stargazers_count": 382,
+    "open_issues_count": 16,
     "forks_count": 98
   },
   {
     "full_name": "gto76/python-cheatsheet",
-    "stargazers_count": 36466,
+    "stargazers_count": 36488,
     "open_issues_count": 23,
-    "forks_count": 6474
+    "forks_count": 6475
   },
   {
     "full_name": "pyenv/pyenv",
-    "stargazers_count": 39402,
-    "open_issues_count": 73,
-    "forks_count": 3055
+    "stargazers_count": 39438,
+    "open_issues_count": 76,
+    "forks_count": 3061
   },
   {
     "full_name": "azl397985856/leetcode",
-    "stargazers_count": 54724,
-    "open_issues_count": 11,
-    "forks_count": 9467
+    "stargazers_count": 54746,
+    "open_issues_count": 10,
+    "forks_count": 9470
   },
   {
     "full_name": "scikit-learn/scikit-learn",
-    "stargazers_count": 60129,
-    "open_issues_count": 2054,
-    "forks_count": 25409
+    "stargazers_count": 60169,
+    "open_issues_count": 2057,
+    "forks_count": 25410
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 186376,
-    "open_issues_count": 5823,
-    "forks_count": 74310
+    "stargazers_count": 186440,
+    "open_issues_count": 5851,
+    "forks_count": 74317
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 10984,
-    "open_issues_count": 47,
-    "forks_count": 873
+    "stargazers_count": 10997,
+    "open_issues_count": 46,
+    "forks_count": 875
   },
   {
     "full_name": "flameshot-org/flameshot",
-    "stargazers_count": 25008,
-    "open_issues_count": 742,
+    "stargazers_count": 25034,
+    "open_issues_count": 747,
     "forks_count": 1600
   },
   {
     "full_name": "qutebrowser/qutebrowser",
-    "stargazers_count": 9720,
-    "open_issues_count": 1231,
+    "stargazers_count": 9727,
+    "open_issues_count": 1230,
     "forks_count": 1009
   },
   {
     "full_name": "dail8859/NotepadNext",
-    "stargazers_count": 9218,
+    "stargazers_count": 9233,
     "open_issues_count": 56,
     "forks_count": 552
   },
   {
     "full_name": "JesseTG/awesome-qt",
-    "stargazers_count": 1430,
+    "stargazers_count": 1431,
     "open_issues_count": 12,
     "forks_count": 182
   },
   {
     "full_name": "HewlettPackard/PacketRusher",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 38,
     "forks_count": 25
   },
@@ -79,7 +91,7 @@
   },
   {
     "full_name": "SysSec-KAIST/LTESniffer",
-    "stargazers_count": 1789,
+    "stargazers_count": 1793,
     "open_issues_count": 13,
     "forks_count": 183
   },
@@ -97,51 +109,51 @@
   },
   {
     "full_name": "casualsnek/waydroid_script",
-    "stargazers_count": 1843,
+    "stargazers_count": 1853,
     "open_issues_count": 99,
     "forks_count": 168
   },
   {
     "full_name": "opengapps/opengapps",
-    "stargazers_count": 5836,
+    "stargazers_count": 5835,
     "open_issues_count": 30,
     "forks_count": 998
   },
   {
     "full_name": "alyssaxuu/later",
-    "stargazers_count": 1540,
+    "stargazers_count": 1545,
     "open_issues_count": 20,
     "forks_count": 67
   },
   {
     "full_name": "zellij-org/zellij",
-    "stargazers_count": 21738,
-    "open_issues_count": 1032,
-    "forks_count": 658
+    "stargazers_count": 21841,
+    "open_issues_count": 1037,
+    "forks_count": 662
   },
   {
     "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 46975,
+    "stargazers_count": 47026,
     "open_issues_count": 11,
-    "forks_count": 2767
+    "forks_count": 2769
   },
   {
     "full_name": "intel/FlexRAN",
-    "stargazers_count": 129,
+    "stargazers_count": 128,
     "open_issues_count": 12,
     "forks_count": 42
   },
   {
     "full_name": "srsran/srsRAN_Project",
-    "stargazers_count": 521,
+    "stargazers_count": 522,
     "open_issues_count": 27,
-    "forks_count": 176
+    "forks_count": 177
   },
   {
     "full_name": "Darkempire78/OpenCalc",
-    "stargazers_count": 870,
+    "stargazers_count": 872,
     "open_issues_count": 42,
-    "forks_count": 101
+    "forks_count": 102
   },
   {
     "full_name": "aritraroy/UltimateAndroidReference",
@@ -153,30 +165,18 @@
     "full_name": "enginebai/MovieHunt",
     "stargazers_count": 743,
     "open_issues_count": 5,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 83587,
+    "stargazers_count": 83608,
     "open_issues_count": 112,
-    "forks_count": 12349
+    "forks_count": 12364
   },
   {
     "full_name": "amitshekhariitbhu/android-developer-roadmap",
     "stargazers_count": 2788,
     "open_issues_count": 16,
     "forks_count": 499
-  },
-  {
-    "full_name": "iBotPeaches/Apktool",
-    "stargazers_count": 20266,
-    "open_issues_count": 77,
-    "forks_count": 3589
-  },
-  {
-    "full_name": "Psyhackological/AAA",
-    "stargazers_count": 1798,
-    "open_issues_count": 1,
-    "forks_count": 32
   }
 ]
