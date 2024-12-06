@@ -1,141 +1,159 @@
 [
   {
+    "full_name": "albertomosconi/foss-apps",
+    "stargazers_count": 714,
+    "open_issues_count": 9,
+    "forks_count": 26
+  },
+  {
+    "full_name": "Asabeneh/30-Days-Of-Python",
+    "stargazers_count": 43172,
+    "open_issues_count": 214,
+    "forks_count": 8239
+  },
+  {
+    "full_name": "521xueweihan/HelloGitHub",
+    "stargazers_count": 95338,
+    "open_issues_count": 170,
+    "forks_count": 9707
+  },
+  {
     "full_name": "warpdotdev/Warp",
-    "stargazers_count": 21536,
-    "open_issues_count": 2296,
-    "forks_count": 377
+    "stargazers_count": 21578,
+    "open_issues_count": 2298,
+    "forks_count": 379
   },
   {
     "full_name": "kingToolbox/WindTerm",
-    "stargazers_count": 23826,
-    "open_issues_count": 1873,
-    "forks_count": 1826
+    "stargazers_count": 23962,
+    "open_issues_count": 1878,
+    "forks_count": 1834
   },
   {
     "full_name": "withfig/autocomplete",
-    "stargazers_count": 24615,
-    "open_issues_count": 173,
-    "forks_count": 5509
+    "stargazers_count": 24617,
+    "open_issues_count": 172,
+    "forks_count": 5508
   },
   {
     "full_name": "microsoft/calculator",
-    "stargazers_count": 29841,
+    "stargazers_count": 29853,
     "open_issues_count": 375,
-    "forks_count": 5407
+    "forks_count": 5419
   },
   {
     "full_name": "doocs/leetcode",
-    "stargazers_count": 31961,
+    "stargazers_count": 32002,
     "open_issues_count": 9,
-    "forks_count": 7622
+    "forks_count": 7653
   },
   {
     "full_name": "androiddevnotes/awesome-android-learning-resources",
-    "stargazers_count": 1720,
+    "stargazers_count": 1724,
     "open_issues_count": 10,
     "forks_count": 261
   },
   {
     "full_name": "JakubVojvoda/design-patterns-cpp",
-    "stargazers_count": 4227,
+    "stargazers_count": 4231,
     "open_issues_count": 4,
     "forks_count": 946
   },
   {
     "full_name": "DataExpert-io/data-engineer-handbook",
-    "stargazers_count": 22234,
-    "open_issues_count": 25,
-    "forks_count": 3643
+    "stargazers_count": 22537,
+    "open_issues_count": 27,
+    "forks_count": 3730
   },
   {
     "full_name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-    "stargazers_count": 5923,
-    "open_issues_count": 9,
-    "forks_count": 1199
+    "stargazers_count": 5974,
+    "open_issues_count": 6,
+    "forks_count": 1211
   },
   {
     "full_name": "JioTV-Go/jiotv_go",
-    "stargazers_count": 391,
+    "stargazers_count": 393,
     "open_issues_count": 22,
     "forks_count": 100
   },
   {
     "full_name": "gto76/python-cheatsheet",
-    "stargazers_count": 36563,
+    "stargazers_count": 36575,
     "open_issues_count": 23,
-    "forks_count": 6481
+    "forks_count": 6483
   },
   {
     "full_name": "pyenv/pyenv",
-    "stargazers_count": 39681,
-    "open_issues_count": 74,
-    "forks_count": 3065
+    "stargazers_count": 39722,
+    "open_issues_count": 72,
+    "forks_count": 3067
   },
   {
     "full_name": "azl397985856/leetcode",
-    "stargazers_count": 54807,
+    "stargazers_count": 54819,
     "open_issues_count": 10,
-    "forks_count": 9475
+    "forks_count": 9477
   },
   {
     "full_name": "scikit-learn/scikit-learn",
-    "stargazers_count": 60316,
-    "open_issues_count": 2072,
-    "forks_count": 25432
+    "stargazers_count": 60348,
+    "open_issues_count": 2078,
+    "forks_count": 25441
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 186653,
-    "open_issues_count": 5941,
+    "stargazers_count": 186713,
+    "open_issues_count": 5956,
     "forks_count": 74355
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11025,
+    "stargazers_count": 11035,
     "open_issues_count": 46,
-    "forks_count": 879
+    "forks_count": 880
   },
   {
     "full_name": "flameshot-org/flameshot",
-    "stargazers_count": 25122,
+    "stargazers_count": 25144,
     "open_issues_count": 752,
-    "forks_count": 1606
+    "forks_count": 1607
   },
   {
     "full_name": "qutebrowser/qutebrowser",
-    "stargazers_count": 9764,
-    "open_issues_count": 1232,
+    "stargazers_count": 9768,
+    "open_issues_count": 1228,
     "forks_count": 1012
   },
   {
     "full_name": "dail8859/NotepadNext",
-    "stargazers_count": 9291,
-    "open_issues_count": 58,
+    "stargazers_count": 9301,
+    "open_issues_count": 59,
     "forks_count": 557
   },
   {
     "full_name": "JesseTG/awesome-qt",
-    "stargazers_count": 1434,
+    "stargazers_count": 1436,
     "open_issues_count": 12,
     "forks_count": 182
   },
   {
     "full_name": "HewlettPackard/PacketRusher",
-    "stargazers_count": 117,
+    "stargazers_count": 119,
     "open_issues_count": 35,
     "forks_count": 26
   },
   {
     "full_name": "s5uishida/sample_config_misc_for_mobile_network",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "SysSec-KAIST/LTESniffer",
-    "stargazers_count": 1807,
+    "stargazers_count": 1808,
     "open_issues_count": 14,
-    "forks_count": 184
+    "forks_count": 185
   },
   {
     "full_name": "devopsjourney23/my-srsproject-demo",
@@ -147,36 +165,18 @@
     "full_name": "N00Bception/AI-Powered-5G-OpenRAN-Optimizer",
     "stargazers_count": 42,
     "open_issues_count": 3,
-    "forks_count": 15
+    "forks_count": 17
   },
   {
     "full_name": "casualsnek/waydroid_script",
-    "stargazers_count": 1898,
+    "stargazers_count": 1908,
     "open_issues_count": 100,
     "forks_count": 170
   },
   {
     "full_name": "opengapps/opengapps",
-    "stargazers_count": 5836,
+    "stargazers_count": 5838,
     "open_issues_count": 30,
     "forks_count": 998
-  },
-  {
-    "full_name": "alyssaxuu/later",
-    "stargazers_count": 1556,
-    "open_issues_count": 20,
-    "forks_count": 67
-  },
-  {
-    "full_name": "zellij-org/zellij",
-    "stargazers_count": 22076,
-    "open_issues_count": 1053,
-    "forks_count": 674
-  },
-  {
-    "full_name": "rust-unofficial/awesome-rust",
-    "stargazers_count": 47311,
-    "open_issues_count": 11,
-    "forks_count": 2784
   }
 ]
