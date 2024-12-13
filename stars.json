@@ -1,57 +1,69 @@
 [
   {
+    "full_name": "grafana/grafana",
+    "stargazers_count": 65470,
+    "open_issues_count": 4221,
+    "forks_count": 12227
+  },
+  {
+    "full_name": "syncthing/syncthing",
+    "stargazers_count": 66146,
+    "open_issues_count": 390,
+    "forks_count": 4330
+  },
+  {
     "full_name": "gnuradio/gnuradio",
-    "stargazers_count": 5163,
-    "open_issues_count": 485,
+    "stargazers_count": 5166,
+    "open_issues_count": 487,
     "forks_count": 1922
   },
   {
     "full_name": "albertomosconi/foss-apps",
-    "stargazers_count": 716,
+    "stargazers_count": 718,
     "open_issues_count": 9,
     "forks_count": 26
   },
   {
     "full_name": "Asabeneh/30-Days-Of-Python",
-    "stargazers_count": 43244,
+    "stargazers_count": 43307,
     "open_issues_count": 198,
-    "forks_count": 8248
+    "forks_count": 8261
   },
   {
     "full_name": "521xueweihan/HelloGitHub",
-    "stargazers_count": 95589,
-    "open_issues_count": 171,
-    "forks_count": 9710
+    "stargazers_count": 95746,
+    "open_issues_count": 173,
+    "forks_count": 9716
   },
   {
     "full_name": "warpdotdev/Warp",
-    "stargazers_count": 21601,
-    "open_issues_count": 2305,
-    "forks_count": 380
+    "stargazers_count": 21632,
+    "open_issues_count": 2309,
+    "forks_count": 381
   },
   {
     "full_name": "kingToolbox/WindTerm",
-    "stargazers_count": 24025,
-    "open_issues_count": 1880,
-    "forks_count": 1839
+    "stargazers_count": 24067,
+    "open_issues_count": 1882,
+    "forks_count": 1838
   },
   {
     "full_name": "withfig/autocomplete",
-    "stargazers_count": 24627,
-    "open_issues_count": 171,
-    "forks_count": 5510
+    "stargazers_count": 24628,
+    "open_issues_count": 167,
+    "forks_count": 5512
   },
   {
     "full_name": "microsoft/calculator",
-    "stargazers_count": 29873,
+    "stargazers_count": 29885,
     "open_issues_count": 382,
-    "forks_count": 5424
+    "forks_count": 5431
   },
   {
     "full_name": "doocs/leetcode",
-    "stargazers_count": 32043,
+    "stargazers_count": 32084,
     "open_issues_count": 9,
-    "forks_count": 7688
+    "forks_count": 7712
   },
   {
     "full_name": "androiddevnotes/awesome-android-learning-resources",
@@ -61,91 +73,91 @@
   },
   {
     "full_name": "JakubVojvoda/design-patterns-cpp",
-    "stargazers_count": 4232,
+    "stargazers_count": 4236,
     "open_issues_count": 4,
     "forks_count": 947
   },
   {
     "full_name": "DataExpert-io/data-engineer-handbook",
-    "stargazers_count": 22736,
-    "open_issues_count": 25,
-    "forks_count": 3831
+    "stargazers_count": 22920,
+    "open_issues_count": 26,
+    "forks_count": 3883
   },
   {
     "full_name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-    "stargazers_count": 5987,
+    "stargazers_count": 5986,
     "open_issues_count": 6,
     "forks_count": 1208
   },
   {
     "full_name": "JioTV-Go/jiotv_go",
-    "stargazers_count": 399,
-    "open_issues_count": 22,
+    "stargazers_count": 401,
+    "open_issues_count": 24,
     "forks_count": 101
   },
   {
     "full_name": "gto76/python-cheatsheet",
-    "stargazers_count": 36594,
+    "stargazers_count": 36602,
     "open_issues_count": 23,
-    "forks_count": 6481
+    "forks_count": 6482
   },
   {
     "full_name": "pyenv/pyenv",
-    "stargazers_count": 39776,
-    "open_issues_count": 71,
-    "forks_count": 3071
+    "stargazers_count": 39840,
+    "open_issues_count": 69,
+    "forks_count": 3073
   },
   {
     "full_name": "azl397985856/leetcode",
-    "stargazers_count": 54823,
+    "stargazers_count": 54838,
     "open_issues_count": 10,
-    "forks_count": 9477
+    "forks_count": 9473
   },
   {
     "full_name": "scikit-learn/scikit-learn",
-    "stargazers_count": 60398,
-    "open_issues_count": 2087,
-    "forks_count": 25450
+    "stargazers_count": 60437,
+    "open_issues_count": 2100,
+    "forks_count": 25462
   },
   {
     "full_name": "tensorflow/tensorflow",
-    "stargazers_count": 186759,
-    "open_issues_count": 6001,
-    "forks_count": 74353
+    "stargazers_count": 186816,
+    "open_issues_count": 6061,
+    "forks_count": 74361
   },
   {
     "full_name": "jopohl/urh",
-    "stargazers_count": 11048,
+    "stargazers_count": 11054,
     "open_issues_count": 46,
-    "forks_count": 879
+    "forks_count": 881
   },
   {
     "full_name": "flameshot-org/flameshot",
-    "stargazers_count": 25169,
+    "stargazers_count": 25190,
     "open_issues_count": 755,
     "forks_count": 1608
   },
   {
     "full_name": "qutebrowser/qutebrowser",
-    "stargazers_count": 9913,
-    "open_issues_count": 1225,
-    "forks_count": 1017
+    "stargazers_count": 9928,
+    "open_issues_count": 1226,
+    "forks_count": 1019
   },
   {
     "full_name": "dail8859/NotepadNext",
-    "stargazers_count": 9313,
+    "stargazers_count": 9329,
     "open_issues_count": 60,
-    "forks_count": 558
+    "forks_count": 559
   },
   {
     "full_name": "JesseTG/awesome-qt",
-    "stargazers_count": 1436,
+    "stargazers_count": 1437,
     "open_issues_count": 12,
     "forks_count": 182
   },
   {
     "full_name": "HewlettPackard/PacketRusher",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 36,
     "forks_count": 25
   },
@@ -157,7 +169,7 @@
   },
   {
     "full_name": "SysSec-KAIST/LTESniffer",
-    "stargazers_count": 1810,
+    "stargazers_count": 1812,
     "open_issues_count": 14,
     "forks_count": 183
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "N00Bception/AI-Powered-5G-OpenRAN-Optimizer",
-    "stargazers_count": 42,
-    "open_issues_count": 3,
-    "forks_count": 17
-  },
-  {
-    "full_name": "casualsnek/waydroid_script",
-    "stargazers_count": 1916,
-    "open_issues_count": 101,
-    "forks_count": 172
   }
 ]
