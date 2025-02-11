@@ -1,55 +1,67 @@
 [
   {
+    "full_name": "gabime/spdlog",
+    "stargazers_count": 25249,
+    "open_issues_count": 57,
+    "forks_count": 4674
+  },
+  {
+    "full_name": "changkun/modern-cpp-tutorial",
+    "stargazers_count": 24431,
+    "open_issues_count": 19,
+    "forks_count": 3028
+  },
+  {
     "full_name": "mikeroyal/Self-Hosting-Guide",
-    "stargazers_count": 12151,
+    "stargazers_count": 12198,
     "open_issues_count": 23,
-    "forks_count": 644
+    "forks_count": 646
   },
   {
     "full_name": "MichaIng/DietPi",
-    "stargazers_count": 5028,
-    "open_issues_count": 537,
-    "forks_count": 504
+    "stargazers_count": 5037,
+    "open_issues_count": 521,
+    "forks_count": 503
   },
   {
     "full_name": "desktop/desktop",
-    "stargazers_count": 20152,
-    "open_issues_count": 790,
+    "stargazers_count": 20171,
+    "open_issues_count": 786,
     "forks_count": 9524
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 21446,
+    "stargazers_count": 21451,
     "open_issues_count": 37,
     "forks_count": 1706
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 67642,
+    "stargazers_count": 67696,
     "open_issues_count": 42,
-    "forks_count": 15131
+    "forks_count": 15140
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 56106,
-    "open_issues_count": 787,
-    "forks_count": 1942
+    "stargazers_count": 56263,
+    "open_issues_count": 779,
+    "forks_count": 1950
   },
   {
     "full_name": "lapce/lapdev",
-    "stargazers_count": 1643,
+    "stargazers_count": 1645,
     "open_issues_count": 13,
     "forks_count": 39
   },
   {
     "full_name": "rohanrhu/gdb-frontend",
-    "stargazers_count": 2895,
+    "stargazers_count": 2896,
     "open_issues_count": 11,
     "forks_count": 104
   },
   {
     "full_name": "androiddevnotes/awesome-jetpack-compose-learning-resources",
-    "stargazers_count": 1363,
+    "stargazers_count": 1364,
     "open_issues_count": 6,
     "forks_count": 133
   },
@@ -61,7 +73,7 @@
   },
   {
     "full_name": "google/sanitizers",
-    "stargazers_count": 11738,
+    "stargazers_count": 11750,
     "open_issues_count": 618,
     "forks_count": 1051
   },
@@ -73,110 +85,98 @@
   },
   {
     "full_name": "fynks/awesome-android-root",
-    "stargazers_count": 573,
-    "open_issues_count": 3,
+    "stargazers_count": 599,
+    "open_issues_count": 2,
     "forks_count": 26
   },
   {
     "full_name": "tortuvshin/open-source-flutter-apps",
-    "stargazers_count": 4023,
+    "stargazers_count": 4026,
     "open_issues_count": 7,
     "forks_count": 760
   },
   {
     "full_name": "grafana/grafana",
-    "stargazers_count": 66339,
-    "open_issues_count": 4214,
-    "forks_count": 12345
+    "stargazers_count": 66396,
+    "open_issues_count": 4215,
+    "forks_count": 12357
   },
   {
     "full_name": "syncthing/syncthing",
-    "stargazers_count": 67411,
-    "open_issues_count": 412,
-    "forks_count": 4388
+    "stargazers_count": 67526,
+    "open_issues_count": 400,
+    "forks_count": 4395
   },
   {
     "full_name": "gnuradio/gnuradio",
-    "stargazers_count": 5252,
-    "open_issues_count": 510,
-    "forks_count": 1935
+    "stargazers_count": 5270,
+    "open_issues_count": 512,
+    "forks_count": 1937
   },
   {
     "full_name": "albertomosconi/foss-apps",
-    "stargazers_count": 756,
+    "stargazers_count": 754,
     "open_issues_count": 10,
     "forks_count": 28
   },
   {
     "full_name": "Asabeneh/30-Days-Of-Python",
-    "stargazers_count": 44301,
-    "open_issues_count": 186,
-    "forks_count": 8479
+    "stargazers_count": 44386,
+    "open_issues_count": 188,
+    "forks_count": 8496
   },
   {
     "full_name": "521xueweihan/HelloGitHub",
-    "stargazers_count": 98183,
-    "open_issues_count": 187,
+    "stargazers_count": 98306,
+    "open_issues_count": 188,
     "forks_count": 9808
   },
   {
     "full_name": "warpdotdev/Warp",
-    "stargazers_count": 22066,
-    "open_issues_count": 2431,
+    "stargazers_count": 22088,
+    "open_issues_count": 2442,
     "forks_count": 391
   },
   {
     "full_name": "kingToolbox/WindTerm",
-    "stargazers_count": 24868,
-    "open_issues_count": 1918,
-    "forks_count": 1919
+    "stargazers_count": 24916,
+    "open_issues_count": 1919,
+    "forks_count": 1924
   },
   {
     "full_name": "withfig/autocomplete",
-    "stargazers_count": 24688,
-    "open_issues_count": 166,
-    "forks_count": 5507
+    "stargazers_count": 24706,
+    "open_issues_count": 168,
+    "forks_count": 5505
   },
   {
     "full_name": "microsoft/calculator",
-    "stargazers_count": 30006,
-    "open_issues_count": 381,
+    "stargazers_count": 30025,
+    "open_issues_count": 383,
     "forks_count": 5482
   },
   {
     "full_name": "doocs/leetcode",
-    "stargazers_count": 32850,
+    "stargazers_count": 32890,
     "open_issues_count": 15,
-    "forks_count": 8297
+    "forks_count": 8348
   },
   {
     "full_name": "androiddevnotes/awesome-android-learning-resources",
-    "stargazers_count": 1759,
+    "stargazers_count": 1760,
     "open_issues_count": 10,
     "forks_count": 267
   },
   {
     "full_name": "JakubVojvoda/design-patterns-cpp",
-    "stargazers_count": 4289,
+    "stargazers_count": 4295,
     "open_issues_count": 4,
     "forks_count": 953
   },
   {
     "full_name": "DataExpert-io/data-engineer-handbook",
-    "stargazers_count": 26401,
+    "stargazers_count": 26510,
     "open_issues_count": 21,
-    "forks_count": 5328
-  },
-  {
-    "full_name": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
-    "stargazers_count": 6002,
-    "open_issues_count": 7,
-    "forks_count": 1200
-  },
-  {
-    "full_name": "JioTV-Go/jiotv_go",
-    "stargazers_count": 436,
-    "open_issues_count": 14,
-    "forks_count": 103
+    "forks_count": 5420
   }
 ]
