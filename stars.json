@@ -1,5 +1,59 @@
 [
   {
+    "full_name": "Lisprez/so_stupid_search",
+    "stargazers_count": 169,
+    "open_issues_count": 0,
+    "forks_count": 13
+  },
+  {
+    "full_name": "JetBrains/intellij-community",
+    "stargazers_count": 17675,
+    "open_issues_count": 298,
+    "forks_count": 5353
+  },
+  {
+    "full_name": "CodeEditApp/CodeEdit",
+    "stargazers_count": 21450,
+    "open_issues_count": 233,
+    "forks_count": 1055
+  },
+  {
+    "full_name": "walkacross/learn_cpp_in_30_minutes",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "refined-github/refined-github",
+    "stargazers_count": 25842,
+    "open_issues_count": 118,
+    "forks_count": 1522
+  },
+  {
+    "full_name": "GitHubDaily/GitHubDaily",
+    "stargazers_count": 36159,
+    "open_issues_count": 319,
+    "forks_count": 3801
+  },
+  {
+    "full_name": "go-gitea/gitea",
+    "stargazers_count": 47273,
+    "open_issues_count": 2765,
+    "forks_count": 5674
+  },
+  {
+    "full_name": "ollama/ollama",
+    "stargazers_count": 129165,
+    "open_issues_count": 1594,
+    "forks_count": 10535
+  },
+  {
+    "full_name": "MisterBooo/LeetCodeAnimation",
+    "stargazers_count": 75714,
+    "open_issues_count": 21,
+    "forks_count": 13986
+  },
+  {
     "full_name": "jin/awesome-bazel",
     "stargazers_count": 1177,
     "open_issues_count": 13,
@@ -7,67 +61,67 @@
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 23681,
-    "open_issues_count": 1925,
+    "stargazers_count": 23694,
+    "open_issues_count": 1933,
     "forks_count": 4135
   },
   {
     "full_name": "gabime/spdlog",
-    "stargazers_count": 25329,
-    "open_issues_count": 59,
+    "stargazers_count": 25373,
+    "open_issues_count": 60,
     "forks_count": 4685
   },
   {
     "full_name": "changkun/modern-cpp-tutorial",
-    "stargazers_count": 24473,
+    "stargazers_count": 24480,
     "open_issues_count": 20,
     "forks_count": 3031
   },
   {
     "full_name": "mikeroyal/Self-Hosting-Guide",
-    "stargazers_count": 12316,
-    "open_issues_count": 23,
-    "forks_count": 648
+    "stargazers_count": 12357,
+    "open_issues_count": 24,
+    "forks_count": 651
   },
   {
     "full_name": "MichaIng/DietPi",
-    "stargazers_count": 5072,
-    "open_issues_count": 528,
+    "stargazers_count": 5085,
+    "open_issues_count": 525,
     "forks_count": 503
   },
   {
     "full_name": "desktop/desktop",
-    "stargazers_count": 20192,
-    "open_issues_count": 784,
-    "forks_count": 9539
+    "stargazers_count": 20205,
+    "open_issues_count": 796,
+    "forks_count": 9552
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 21455,
+    "stargazers_count": 21458,
     "open_issues_count": 37,
     "forks_count": 1706
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 67923,
+    "stargazers_count": 68587,
     "open_issues_count": 42,
-    "forks_count": 15172
+    "forks_count": 15324
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 56770,
-    "open_issues_count": 796,
-    "forks_count": 1966
+    "stargazers_count": 56978,
+    "open_issues_count": 797,
+    "forks_count": 1967
   },
   {
     "full_name": "lapce/lapdev",
-    "stargazers_count": 1651,
+    "stargazers_count": 1655,
     "open_issues_count": 13,
     "forks_count": 40
   },
   {
     "full_name": "rohanrhu/gdb-frontend",
-    "stargazers_count": 2902,
+    "stargazers_count": 2906,
     "open_issues_count": 11,
     "forks_count": 104
   },
@@ -85,98 +139,44 @@
   },
   {
     "full_name": "google/sanitizers",
-    "stargazers_count": 11775,
-    "open_issues_count": 620,
-    "forks_count": 1052
+    "stargazers_count": 11788,
+    "open_issues_count": 619,
+    "forks_count": 1055
   },
   {
     "full_name": "Domi04151309/BatteryTool",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 6,
     "forks_count": 13
   },
   {
     "full_name": "fynks/awesome-android-root",
-    "stargazers_count": 664,
+    "stargazers_count": 683,
     "open_issues_count": 4,
     "forks_count": 30
   },
   {
     "full_name": "tortuvshin/open-source-flutter-apps",
-    "stargazers_count": 4038,
+    "stargazers_count": 4039,
     "open_issues_count": 6,
-    "forks_count": 759
+    "forks_count": 760
   },
   {
     "full_name": "grafana/grafana",
-    "stargazers_count": 66569,
-    "open_issues_count": 4193,
-    "forks_count": 12399
+    "stargazers_count": 66639,
+    "open_issues_count": 4180,
+    "forks_count": 12409
   },
   {
     "full_name": "syncthing/syncthing",
-    "stargazers_count": 67765,
-    "open_issues_count": 402,
-    "forks_count": 4405
+    "stargazers_count": 67857,
+    "open_issues_count": 405,
+    "forks_count": 4406
   },
   {
     "full_name": "gnuradio/gnuradio",
-    "stargazers_count": 5292,
-    "open_issues_count": 516,
-    "forks_count": 1938
-  },
-  {
-    "full_name": "albertomosconi/foss-apps",
-    "stargazers_count": 762,
-    "open_issues_count": 11,
-    "forks_count": 28
-  },
-  {
-    "full_name": "Asabeneh/30-Days-Of-Python",
-    "stargazers_count": 44635,
-    "open_issues_count": 188,
-    "forks_count": 8538
-  },
-  {
-    "full_name": "521xueweihan/HelloGitHub",
-    "stargazers_count": 98691,
-    "open_issues_count": 194,
-    "forks_count": 9822
-  },
-  {
-    "full_name": "warpdotdev/Warp",
-    "stargazers_count": 22163,
-    "open_issues_count": 2486,
-    "forks_count": 393
-  },
-  {
-    "full_name": "kingToolbox/WindTerm",
-    "stargazers_count": 25018,
-    "open_issues_count": 1930,
-    "forks_count": 1934
-  },
-  {
-    "full_name": "withfig/autocomplete",
-    "stargazers_count": 24713,
-    "open_issues_count": 170,
-    "forks_count": 5504
-  },
-  {
-    "full_name": "microsoft/calculator",
-    "stargazers_count": 30062,
-    "open_issues_count": 381,
-    "forks_count": 5491
-  },
-  {
-    "full_name": "doocs/leetcode",
-    "stargazers_count": 33015,
-    "open_issues_count": 15,
-    "forks_count": 8453
-  },
-  {
-    "full_name": "androiddevnotes/awesome-android-learning-resources",
-    "stargazers_count": 1764,
-    "open_issues_count": 10,
-    "forks_count": 267
+    "stargazers_count": 5299,
+    "open_issues_count": 518,
+    "forks_count": 1941
   }
 ]
