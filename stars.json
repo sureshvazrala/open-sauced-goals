@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "DIYgod/RSSHub",
+    "stargazers_count": 35426,
+    "open_issues_count": 352,
+    "forks_count": 7787
+  },
+  {
+    "full_name": "KRTirtho/spotube",
+    "stargazers_count": 35622,
+    "open_issues_count": 627,
+    "forks_count": 1484
+  },
+  {
     "full_name": "Lisprez/so_stupid_search",
     "stargazers_count": 169,
     "open_issues_count": 0,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "JetBrains/intellij-community",
-    "stargazers_count": 17675,
-    "open_issues_count": 298,
-    "forks_count": 5353
+    "stargazers_count": 17676,
+    "open_issues_count": 300,
+    "forks_count": 5352
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 21450,
+    "stargazers_count": 21456,
     "open_issues_count": 233,
-    "forks_count": 1055
+    "forks_count": 1057
   },
   {
     "full_name": "walkacross/learn_cpp_in_30_minutes",
@@ -25,111 +37,111 @@
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 25842,
-    "open_issues_count": 118,
-    "forks_count": 1522
+    "stargazers_count": 25874,
+    "open_issues_count": 120,
+    "forks_count": 1521
   },
   {
     "full_name": "GitHubDaily/GitHubDaily",
-    "stargazers_count": 36159,
-    "open_issues_count": 319,
-    "forks_count": 3801
+    "stargazers_count": 36266,
+    "open_issues_count": 318,
+    "forks_count": 3814
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 47273,
-    "open_issues_count": 2765,
-    "forks_count": 5674
+    "stargazers_count": 47316,
+    "open_issues_count": 2773,
+    "forks_count": 5677
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 129165,
-    "open_issues_count": 1594,
-    "forks_count": 10535
+    "stargazers_count": 130019,
+    "open_issues_count": 1627,
+    "forks_count": 10633
   },
   {
     "full_name": "MisterBooo/LeetCodeAnimation",
-    "stargazers_count": 75714,
+    "stargazers_count": 75718,
     "open_issues_count": 21,
-    "forks_count": 13986
+    "forks_count": 13984
   },
   {
     "full_name": "jin/awesome-bazel",
-    "stargazers_count": 1177,
+    "stargazers_count": 1178,
     "open_issues_count": 13,
     "forks_count": 138
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 23694,
-    "open_issues_count": 1933,
-    "forks_count": 4135
+    "stargazers_count": 23708,
+    "open_issues_count": 1942,
+    "forks_count": 4140
   },
   {
     "full_name": "gabime/spdlog",
-    "stargazers_count": 25373,
-    "open_issues_count": 60,
-    "forks_count": 4685
+    "stargazers_count": 25413,
+    "open_issues_count": 61,
+    "forks_count": 4687
   },
   {
     "full_name": "changkun/modern-cpp-tutorial",
-    "stargazers_count": 24480,
+    "stargazers_count": 24494,
     "open_issues_count": 20,
     "forks_count": 3031
   },
   {
     "full_name": "mikeroyal/Self-Hosting-Guide",
-    "stargazers_count": 12357,
+    "stargazers_count": 12393,
     "open_issues_count": 24,
-    "forks_count": 651
+    "forks_count": 653
   },
   {
     "full_name": "MichaIng/DietPi",
-    "stargazers_count": 5085,
+    "stargazers_count": 5096,
     "open_issues_count": 525,
     "forks_count": 503
   },
   {
     "full_name": "desktop/desktop",
-    "stargazers_count": 20205,
-    "open_issues_count": 796,
-    "forks_count": 9552
+    "stargazers_count": 20206,
+    "open_issues_count": 790,
+    "forks_count": 9557
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 21458,
+    "stargazers_count": 21459,
     "open_issues_count": 37,
     "forks_count": 1706
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 68587,
+    "stargazers_count": 69532,
     "open_issues_count": 42,
-    "forks_count": 15324
+    "forks_count": 15451
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 56978,
-    "open_issues_count": 797,
-    "forks_count": 1967
+    "stargazers_count": 57145,
+    "open_issues_count": 799,
+    "forks_count": 1969
   },
   {
     "full_name": "lapce/lapdev",
-    "stargazers_count": 1655,
-    "open_issues_count": 13,
+    "stargazers_count": 1654,
+    "open_issues_count": 14,
     "forks_count": 40
   },
   {
     "full_name": "rohanrhu/gdb-frontend",
-    "stargazers_count": 2906,
+    "stargazers_count": 2911,
     "open_issues_count": 11,
     "forks_count": 104
   },
   {
     "full_name": "androiddevnotes/awesome-jetpack-compose-learning-resources",
-    "stargazers_count": 1368,
+    "stargazers_count": 1371,
     "open_issues_count": 6,
-    "forks_count": 133
+    "forks_count": 134
   },
   {
     "full_name": "vamsitallapudi/Android-Interview-Questions-And-Answers",
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "google/sanitizers",
-    "stargazers_count": 11788,
+    "stargazers_count": 11792,
     "open_issues_count": 619,
-    "forks_count": 1055
+    "forks_count": 1057
   },
   {
     "full_name": "Domi04151309/BatteryTool",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "fynks/awesome-android-root",
-    "stargazers_count": 683,
+    "stargazers_count": 703,
     "open_issues_count": 4,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "tortuvshin/open-source-flutter-apps",
-    "stargazers_count": 4039,
+    "stargazers_count": 4044,
     "open_issues_count": 6,
-    "forks_count": 760
+    "forks_count": 762
   },
   {
     "full_name": "grafana/grafana",
-    "stargazers_count": 66639,
-    "open_issues_count": 4180,
-    "forks_count": 12409
-  },
-  {
-    "full_name": "syncthing/syncthing",
-    "stargazers_count": 67857,
-    "open_issues_count": 405,
-    "forks_count": 4406
-  },
-  {
-    "full_name": "gnuradio/gnuradio",
-    "stargazers_count": 5299,
-    "open_issues_count": 518,
-    "forks_count": 1941
+    "stargazers_count": 66703,
+    "open_issues_count": 4190,
+    "forks_count": 12427
   }
 ]
