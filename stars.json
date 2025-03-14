@@ -1,45 +1,51 @@
 [
   {
+    "full_name": "rstudio/bookdown",
+    "stargazers_count": 3858,
+    "open_issues_count": 226,
+    "forks_count": 1269
+  },
+  {
     "full_name": "Homebrew/homebrew-core",
-    "stargazers_count": 14083,
-    "open_issues_count": 96,
-    "forks_count": 12659
+    "stargazers_count": 14090,
+    "open_issues_count": 100,
+    "forks_count": 12670
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 176603,
-    "open_issues_count": 479,
-    "forks_count": 26014
+    "stargazers_count": 176720,
+    "open_issues_count": 481,
+    "forks_count": 26017
   },
   {
     "full_name": "zyedidia/eget",
-    "stargazers_count": 1162,
+    "stargazers_count": 1165,
     "open_issues_count": 35,
     "forks_count": 44
   },
   {
     "full_name": "mbadolato/iTerm2-Color-Schemes",
-    "stargazers_count": 25409,
+    "stargazers_count": 25413,
     "open_issues_count": 26,
-    "forks_count": 6479
+    "forks_count": 6480
   },
   {
     "full_name": "Textualize/rich-cli",
-    "stargazers_count": 3199,
+    "stargazers_count": 3202,
     "open_issues_count": 35,
     "forks_count": 81
   },
   {
     "full_name": "AnthonyCalandra/modern-cpp-features",
-    "stargazers_count": 20186,
+    "stargazers_count": 20194,
     "open_issues_count": 6,
-    "forks_count": 2137
+    "forks_count": 2138
   },
   {
     "full_name": "federico-busato/Modern-CPP-Programming",
-    "stargazers_count": 12953,
+    "stargazers_count": 12966,
     "open_issues_count": 1,
-    "forks_count": 884
+    "forks_count": 882
   },
   {
     "full_name": "nplrkn/alsoran",
@@ -49,39 +55,39 @@
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 35306,
-    "open_issues_count": 443,
-    "forks_count": 1476
+    "stargazers_count": 35618,
+    "open_issues_count": 445,
+    "forks_count": 1489
   },
   {
     "full_name": "DIYgod/RSSHub",
-    "stargazers_count": 35589,
-    "open_issues_count": 350,
-    "forks_count": 7815
+    "stargazers_count": 35630,
+    "open_issues_count": 356,
+    "forks_count": 7836
   },
   {
     "full_name": "KRTirtho/spotube",
-    "stargazers_count": 37549,
-    "open_issues_count": 693,
-    "forks_count": 1541
+    "stargazers_count": 38020,
+    "open_issues_count": 689,
+    "forks_count": 1553
   },
   {
     "full_name": "Lisprez/so_stupid_search",
-    "stargazers_count": 169,
+    "stargazers_count": 170,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "JetBrains/intellij-community",
-    "stargazers_count": 17719,
-    "open_issues_count": 311,
-    "forks_count": 5361
+    "stargazers_count": 17730,
+    "open_issues_count": 310,
+    "forks_count": 5363
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 21498,
+    "stargazers_count": 21513,
     "open_issues_count": 227,
-    "forks_count": 1060
+    "forks_count": 1059
   },
   {
     "full_name": "walkacross/learn_cpp_in_30_minutes",
@@ -91,92 +97,86 @@
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 25964,
-    "open_issues_count": 121,
-    "forks_count": 1524
+    "stargazers_count": 26003,
+    "open_issues_count": 122,
+    "forks_count": 1526
   },
   {
     "full_name": "GitHubDaily/GitHubDaily",
-    "stargazers_count": 36547,
-    "open_issues_count": 321,
-    "forks_count": 3855
+    "stargazers_count": 36643,
+    "open_issues_count": 322,
+    "forks_count": 3864
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 47490,
-    "open_issues_count": 2761,
-    "forks_count": 5692
+    "stargazers_count": 47532,
+    "open_issues_count": 2747,
+    "forks_count": 5701
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 132107,
-    "open_issues_count": 1601,
-    "forks_count": 10894
+    "stargazers_count": 132781,
+    "open_issues_count": 1641,
+    "forks_count": 10954
   },
   {
     "full_name": "MisterBooo/LeetCodeAnimation",
-    "stargazers_count": 75747,
+    "stargazers_count": 75759,
     "open_issues_count": 21,
-    "forks_count": 13980
+    "forks_count": 13979
   },
   {
     "full_name": "jin/awesome-bazel",
-    "stargazers_count": 1178,
+    "stargazers_count": 1179,
     "open_issues_count": 13,
     "forks_count": 138
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 23752,
-    "open_issues_count": 1978,
-    "forks_count": 4149
+    "stargazers_count": 23757,
+    "open_issues_count": 1975,
+    "forks_count": 4151
   },
   {
     "full_name": "gabime/spdlog",
-    "stargazers_count": 25504,
-    "open_issues_count": 64,
-    "forks_count": 4704
+    "stargazers_count": 25546,
+    "open_issues_count": 65,
+    "forks_count": 4706
   },
   {
     "full_name": "changkun/modern-cpp-tutorial",
-    "stargazers_count": 24542,
+    "stargazers_count": 24554,
     "open_issues_count": 20,
-    "forks_count": 3032
+    "forks_count": 3033
   },
   {
     "full_name": "mikeroyal/Self-Hosting-Guide",
-    "stargazers_count": 12509,
-    "open_issues_count": 26,
-    "forks_count": 658
+    "stargazers_count": 12622,
+    "open_issues_count": 25,
+    "forks_count": 659
   },
   {
     "full_name": "MichaIng/DietPi",
-    "stargazers_count": 5116,
-    "open_issues_count": 538,
-    "forks_count": 505
+    "stargazers_count": 5120,
+    "open_issues_count": 539,
+    "forks_count": 506
   },
   {
     "full_name": "desktop/desktop",
-    "stargazers_count": 20251,
-    "open_issues_count": 791,
-    "forks_count": 9576
+    "stargazers_count": 20270,
+    "open_issues_count": 806,
+    "forks_count": 9579
   },
   {
     "full_name": "git-tips/tips",
-    "stargazers_count": 21460,
+    "stargazers_count": 21463,
     "open_issues_count": 37,
     "forks_count": 1706
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 70067,
+    "stargazers_count": 70200,
     "open_issues_count": 45,
-    "forks_count": 15626
-  },
-  {
-    "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 57537,
-    "open_issues_count": 817,
-    "forks_count": 1979
+    "forks_count": 15661
   }
 ]
