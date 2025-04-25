@@ -1,93 +1,93 @@
 [
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 48897,
-    "open_issues_count": 101,
-    "forks_count": 2278
+    "stargazers_count": 48934,
+    "open_issues_count": 102,
+    "forks_count": 2279
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 108694,
-    "open_issues_count": 1890,
-    "forks_count": 8538
+    "stargazers_count": 109233,
+    "open_issues_count": 1897,
+    "forks_count": 8573
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 49928,
-    "open_issues_count": 502,
-    "forks_count": 3288
+    "stargazers_count": 50081,
+    "open_issues_count": 505,
+    "forks_count": 3299
   },
   {
     "full_name": "XAMPPRocky/tokei",
-    "stargazers_count": 12223,
+    "stargazers_count": 12245,
     "open_issues_count": 186,
-    "forks_count": 566
+    "forks_count": 568
   },
   {
     "full_name": "uutils/coreutils",
-    "stargazers_count": 19954,
-    "open_issues_count": 417,
-    "forks_count": 1438
+    "stargazers_count": 19994,
+    "open_issues_count": 411,
+    "forks_count": 1444
   },
   {
     "full_name": "Genivia/ugrep",
     "stargazers_count": 2801,
-    "open_issues_count": 6,
+    "open_issues_count": 3,
     "forks_count": 119
   },
   {
     "full_name": "ungoogled-software/ungoogled-chromium",
-    "stargazers_count": 22168,
-    "open_issues_count": 143,
+    "stargazers_count": 22225,
+    "open_issues_count": 146,
     "forks_count": 910
   },
   {
     "full_name": "rstudio/bookdown",
-    "stargazers_count": 3886,
-    "open_issues_count": 224,
-    "forks_count": 1269
+    "stargazers_count": 3889,
+    "open_issues_count": 225,
+    "forks_count": 1270
   },
   {
     "full_name": "Homebrew/homebrew-core",
-    "stargazers_count": 14189,
-    "open_issues_count": 113,
-    "forks_count": 12739
+    "stargazers_count": 14199,
+    "open_issues_count": 114,
+    "forks_count": 12734
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 177839,
-    "open_issues_count": 466,
-    "forks_count": 26054
+    "stargazers_count": 177908,
+    "open_issues_count": 470,
+    "forks_count": 26059
   },
   {
     "full_name": "zyedidia/eget",
-    "stargazers_count": 1208,
+    "stargazers_count": 1209,
     "open_issues_count": 35,
     "forks_count": 45
   },
   {
     "full_name": "mbadolato/iTerm2-Color-Schemes",
-    "stargazers_count": 25555,
-    "open_issues_count": 26,
-    "forks_count": 6482
+    "stargazers_count": 25565,
+    "open_issues_count": 27,
+    "forks_count": 6483
   },
   {
     "full_name": "Textualize/rich-cli",
-    "stargazers_count": 3238,
+    "stargazers_count": 3239,
     "open_issues_count": 35,
     "forks_count": 82
   },
   {
     "full_name": "AnthonyCalandra/modern-cpp-features",
-    "stargazers_count": 20337,
+    "stargazers_count": 20350,
     "open_issues_count": 7,
-    "forks_count": 2155
+    "forks_count": 2156
   },
   {
     "full_name": "federico-busato/Modern-CPP-Programming",
-    "stargazers_count": 13142,
+    "stargazers_count": 13162,
     "open_issues_count": 2,
-    "forks_count": 899
+    "forks_count": 900
   },
   {
     "full_name": "nplrkn/alsoran",
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 37439,
-    "open_issues_count": 432,
-    "forks_count": 1558
+    "stargazers_count": 37499,
+    "open_issues_count": 417,
+    "forks_count": 1561
   },
   {
     "full_name": "DIYgod/RSSHub",
-    "stargazers_count": 36332,
-    "open_issues_count": 380,
-    "forks_count": 7978
+    "stargazers_count": 36387,
+    "open_issues_count": 382,
+    "forks_count": 7991
   },
   {
     "full_name": "KRTirtho/spotube",
-    "stargazers_count": 40001,
-    "open_issues_count": 770,
-    "forks_count": 1653
+    "stargazers_count": 40065,
+    "open_issues_count": 778,
+    "forks_count": 1652
   },
   {
     "full_name": "Lisprez/so_stupid_search",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "JetBrains/intellij-community",
-    "stargazers_count": 17858,
-    "open_issues_count": 311,
-    "forks_count": 5400
+    "stargazers_count": 17869,
+    "open_issues_count": 313,
+    "forks_count": 5402
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 21627,
+    "stargazers_count": 21651,
     "open_issues_count": 199,
-    "forks_count": 1064
+    "forks_count": 1067
   },
   {
     "full_name": "walkacross/learn_cpp_in_30_minutes",
@@ -139,33 +139,33 @@
   },
   {
     "full_name": "refined-github/refined-github",
-    "stargazers_count": 26291,
-    "open_issues_count": 131,
-    "forks_count": 1553
+    "stargazers_count": 26315,
+    "open_issues_count": 133,
+    "forks_count": 1555
   },
   {
     "full_name": "GitHubDaily/GitHubDaily",
-    "stargazers_count": 37396,
+    "stargazers_count": 37456,
     "open_issues_count": 346,
-    "forks_count": 3923
+    "forks_count": 3927
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 48216,
-    "open_issues_count": 2701,
-    "forks_count": 5756
+    "stargazers_count": 48273,
+    "open_issues_count": 2666,
+    "forks_count": 5762
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 138135,
-    "open_issues_count": 1741,
-    "forks_count": 11508
+    "stargazers_count": 138478,
+    "open_issues_count": 1751,
+    "forks_count": 11541
   },
   {
     "full_name": "MisterBooo/LeetCodeAnimation",
-    "stargazers_count": 75846,
+    "stargazers_count": 75857,
     "open_issues_count": 21,
-    "forks_count": 13988
+    "forks_count": 13987
   },
   {
     "full_name": "jin/awesome-bazel",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 23964,
+    "stargazers_count": 23974,
     "open_issues_count": 1981,
-    "forks_count": 4195
+    "forks_count": 4197
   }
 ]
