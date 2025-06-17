@@ -1,33 +1,33 @@
 [
   {
     "full_name": "redhat-performance/tuned",
-    "stargazers_count": 990,
+    "stargazers_count": 991,
     "open_issues_count": 171,
     "forks_count": 203
   },
   {
     "full_name": "derailed/k9s",
-    "stargazers_count": 30062,
+    "stargazers_count": 30091,
     "open_issues_count": 554,
-    "forks_count": 1881
+    "forks_count": 1885
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 115708,
-    "open_issues_count": 2549,
-    "forks_count": 40713
+    "stargazers_count": 115796,
+    "open_issues_count": 2545,
+    "forks_count": 40730
   },
   {
     "full_name": "helm/helm",
-    "stargazers_count": 28002,
-    "open_issues_count": 820,
-    "forks_count": 7258
+    "stargazers_count": 28016,
+    "open_issues_count": 821,
+    "forks_count": 7259
   },
   {
     "full_name": "python/peps",
-    "stargazers_count": 4643,
-    "open_issues_count": 54,
-    "forks_count": 1616
+    "stargazers_count": 4647,
+    "open_issues_count": 53,
+    "forks_count": 1617
   },
   {
     "full_name": "SystronLab/srsRAN-USRPs-OTA",
@@ -49,99 +49,99 @@
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 90546,
-    "open_issues_count": 63,
-    "forks_count": 12994
+    "stargazers_count": 90795,
+    "open_issues_count": 65,
+    "forks_count": 13049
   },
   {
     "full_name": "romkatv/powerlevel10k",
-    "stargazers_count": 49648,
-    "open_issues_count": 115,
-    "forks_count": 2309
+    "stargazers_count": 49710,
+    "open_issues_count": 117,
+    "forks_count": 2311
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 115054,
-    "open_issues_count": 1935,
-    "forks_count": 9086
+    "stargazers_count": 115436,
+    "open_issues_count": 1947,
+    "forks_count": 9123
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 51675,
-    "open_issues_count": 205,
-    "forks_count": 3448
+    "stargazers_count": 51792,
+    "open_issues_count": 209,
+    "forks_count": 3450
   },
   {
     "full_name": "XAMPPRocky/tokei",
-    "stargazers_count": 12607,
-    "open_issues_count": 199,
-    "forks_count": 583
+    "stargazers_count": 12622,
+    "open_issues_count": 200,
+    "forks_count": 584
   },
   {
     "full_name": "uutils/coreutils",
-    "stargazers_count": 20734,
-    "open_issues_count": 431,
-    "forks_count": 1496
+    "stargazers_count": 20748,
+    "open_issues_count": 428,
+    "forks_count": 1497
   },
   {
     "full_name": "Genivia/ugrep",
-    "stargazers_count": 2836,
-    "open_issues_count": 6,
+    "stargazers_count": 2843,
+    "open_issues_count": 4,
     "forks_count": 120
   },
   {
     "full_name": "ungoogled-software/ungoogled-chromium",
-    "stargazers_count": 22735,
+    "stargazers_count": 22772,
     "open_issues_count": 149,
-    "forks_count": 930
+    "forks_count": 934
   },
   {
     "full_name": "rstudio/bookdown",
-    "stargazers_count": 3920,
+    "stargazers_count": 3921,
     "open_issues_count": 227,
     "forks_count": 1271
   },
   {
     "full_name": "Homebrew/homebrew-core",
-    "stargazers_count": 14399,
-    "open_issues_count": 106,
-    "forks_count": 12851
+    "stargazers_count": 14405,
+    "open_issues_count": 115,
+    "forks_count": 12855
   },
   {
     "full_name": "ohmyzsh/ohmyzsh",
-    "stargazers_count": 179165,
-    "open_issues_count": 485,
-    "forks_count": 26102
+    "stargazers_count": 179250,
+    "open_issues_count": 488,
+    "forks_count": 26111
   },
   {
     "full_name": "zyedidia/eget",
-    "stargazers_count": 1274,
-    "open_issues_count": 36,
+    "stargazers_count": 1277,
+    "open_issues_count": 37,
     "forks_count": 46
   },
   {
     "full_name": "mbadolato/iTerm2-Color-Schemes",
-    "stargazers_count": 25707,
-    "open_issues_count": 29,
-    "forks_count": 6488
+    "stargazers_count": 25720,
+    "open_issues_count": 30,
+    "forks_count": 6486
   },
   {
     "full_name": "Textualize/rich-cli",
-    "stargazers_count": 3279,
+    "stargazers_count": 3281,
     "open_issues_count": 34,
     "forks_count": 82
   },
   {
     "full_name": "AnthonyCalandra/modern-cpp-features",
-    "stargazers_count": 20584,
+    "stargazers_count": 20596,
     "open_issues_count": 9,
-    "forks_count": 2170
+    "forks_count": 2174
   },
   {
     "full_name": "federico-busato/Modern-CPP-Programming",
-    "stargazers_count": 13350,
-    "open_issues_count": 6,
-    "forks_count": 913
+    "stargazers_count": 13362,
+    "open_issues_count": 2,
+    "forks_count": 915
   },
   {
     "full_name": "nplrkn/alsoran",
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 43695,
-    "open_issues_count": 494,
-    "forks_count": 1862
+    "stargazers_count": 43771,
+    "open_issues_count": 492,
+    "forks_count": 1872
   },
   {
     "full_name": "DIYgod/RSSHub",
-    "stargazers_count": 37229,
-    "open_issues_count": 360,
-    "forks_count": 8175
+    "stargazers_count": 37317,
+    "open_issues_count": 353,
+    "forks_count": 8202
   },
   {
     "full_name": "KRTirtho/spotube",
-    "stargazers_count": 40607,
+    "stargazers_count": 40627,
     "open_issues_count": 800,
-    "forks_count": 1727
+    "forks_count": 1733
   },
   {
     "full_name": "Lisprez/so_stupid_search",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "JetBrains/intellij-community",
-    "stargazers_count": 18075,
-    "open_issues_count": 316,
-    "forks_count": 5444
+    "stargazers_count": 18085,
+    "open_issues_count": 299,
+    "forks_count": 5442
   }
 ]
