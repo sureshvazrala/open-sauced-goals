@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "wireshark/wireshark",
+    "stargazers_count": 8365,
+    "open_issues_count": 2,
+    "forks_count": 2025
+  },
+  {
     "full_name": "rocksdanister/lively",
-    "stargazers_count": 16935,
-    "open_issues_count": 299,
+    "stargazers_count": 16952,
+    "open_issues_count": 300,
     "forks_count": 1150
   },
   {
     "full_name": "DevToys-app/DevToys",
-    "stargazers_count": 29718,
+    "stargazers_count": 29741,
     "open_issues_count": 278,
     "forks_count": 1616
   },
   {
     "full_name": "ios-mcn/ios-mcn-releases",
     "stargazers_count": 4,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 13
   },
   {
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "x64dbg/x64dbg",
-    "stargazers_count": 46706,
-    "open_issues_count": 605,
-    "forks_count": 2588
+    "stargazers_count": 46729,
+    "open_issues_count": 606,
+    "forks_count": 2587
   },
   {
     "full_name": "OPENAIRINTERFACE/openairinterface5g",
     "stargazers_count": 90,
     "open_issues_count": 0,
-    "forks_count": 63
+    "forks_count": 64
   },
   {
     "full_name": "mroczis/netmonster-core",
@@ -43,19 +49,19 @@
   },
   {
     "full_name": "TeamNewPipe/NewPipe",
-    "stargazers_count": 34791,
-    "open_issues_count": 1245,
-    "forks_count": 3245
+    "stargazers_count": 34820,
+    "open_issues_count": 1248,
+    "forks_count": 3250
   },
   {
     "full_name": "th-ch/youtube-music",
-    "stargazers_count": 27064,
-    "open_issues_count": 449,
-    "forks_count": 1494
+    "stargazers_count": 27157,
+    "open_issues_count": 456,
+    "forks_count": 1505
   },
   {
     "full_name": "gcla/termshark",
-    "stargazers_count": 9534,
+    "stargazers_count": 9542,
     "open_issues_count": 42,
     "forks_count": 419
   },
@@ -67,57 +73,57 @@
   },
   {
     "full_name": "emanuele-f/PCAPdroid",
-    "stargazers_count": 3148,
+    "stargazers_count": 3159,
     "open_issues_count": 57,
     "forks_count": 363
   },
   {
     "full_name": "bee-san/pyWhat",
-    "stargazers_count": 6995,
+    "stargazers_count": 6997,
     "open_issues_count": 27,
     "forks_count": 383
   },
   {
     "full_name": "mahmoud/awesome-python-applications",
-    "stargazers_count": 17316,
+    "stargazers_count": 17320,
     "open_issues_count": 40,
-    "forks_count": 2720
+    "forks_count": 2718
   },
   {
     "full_name": "GyulyVGC/sniffnet",
-    "stargazers_count": 30032,
-    "open_issues_count": 53,
-    "forks_count": 1015
+    "stargazers_count": 30088,
+    "open_issues_count": 52,
+    "forks_count": 1020
   },
   {
     "full_name": "ASHWIN990/ADB-Toolkit",
-    "stargazers_count": 1809,
+    "stargazers_count": 1811,
     "open_issues_count": 24,
     "forks_count": 283
   },
   {
     "full_name": "mzlogin/awesome-adb",
-    "stargazers_count": 11853,
+    "stargazers_count": 11858,
     "open_issues_count": 49,
     "forks_count": 2289
   },
   {
     "full_name": "sirredbeard/awesome-wsl",
-    "stargazers_count": 5958,
+    "stargazers_count": 5960,
     "open_issues_count": 6,
     "forks_count": 292
   },
   {
     "full_name": "microsoft/wslg",
-    "stargazers_count": 11138,
-    "open_issues_count": 626,
-    "forks_count": 365
+    "stargazers_count": 11147,
+    "open_issues_count": 627,
+    "forks_count": 366
   },
   {
     "full_name": "notepad-plus-plus/notepad-plus-plus",
-    "stargazers_count": 25463,
-    "open_issues_count": 2704,
-    "forks_count": 4912
+    "stargazers_count": 25484,
+    "open_issues_count": 2706,
+    "forks_count": 4913
   },
   {
     "full_name": "arifkyi/5GDecoder",
@@ -127,39 +133,39 @@
   },
   {
     "full_name": "Genymobile/scrcpy",
-    "stargazers_count": 126742,
+    "stargazers_count": 126907,
     "open_issues_count": 2511,
-    "forks_count": 11867
+    "forks_count": 11892
   },
   {
     "full_name": "redhat-performance/tuned",
-    "stargazers_count": 1032,
+    "stargazers_count": 1033,
     "open_issues_count": 151,
     "forks_count": 210
   },
   {
     "full_name": "derailed/k9s",
-    "stargazers_count": 30754,
-    "open_issues_count": 480,
-    "forks_count": 1936
+    "stargazers_count": 30795,
+    "open_issues_count": 474,
+    "forks_count": 1939
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 116936,
-    "open_issues_count": 2604,
-    "forks_count": 41190
+    "stargazers_count": 117002,
+    "open_issues_count": 2631,
+    "forks_count": 41209
   },
   {
     "full_name": "helm/helm",
-    "stargazers_count": 28355,
-    "open_issues_count": 853,
-    "forks_count": 7312
+    "stargazers_count": 28375,
+    "open_issues_count": 845,
+    "forks_count": 7316
   },
   {
     "full_name": "python/peps",
-    "stargazers_count": 4694,
-    "open_issues_count": 52,
-    "forks_count": 1647
+    "stargazers_count": 4699,
+    "open_issues_count": 54,
+    "forks_count": 1650
   },
   {
     "full_name": "SystronLab/srsRAN-USRPs-OTA",
@@ -172,11 +178,5 @@
     "stargazers_count": 67,
     "open_issues_count": 3,
     "forks_count": 36
-  },
-  {
-    "full_name": "fasferraz/edrx",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
