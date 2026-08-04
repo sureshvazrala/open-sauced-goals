@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "TechnitiumSoftware/DnsServer",
+    "stargazers_count": 9412,
+    "open_issues_count": 155,
+    "forks_count": 746
+  },
+  {
     "full_name": "osmocom/pysim",
-    "stargazers_count": 569,
+    "stargazers_count": 571,
     "open_issues_count": 1,
     "forks_count": 181
   },
@@ -13,21 +19,21 @@
   },
   {
     "full_name": "topjohnwu/Magisk",
-    "stargazers_count": 61954,
+    "stargazers_count": 62024,
     "open_issues_count": 70,
-    "forks_count": 18123
+    "forks_count": 18171
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 17714,
-    "open_issues_count": 17,
-    "forks_count": 1016
+    "stargazers_count": 17719,
+    "open_issues_count": 10,
+    "forks_count": 1017
   },
   {
     "full_name": "seemoo-lab/CellGuard",
-    "stargazers_count": 411,
+    "stargazers_count": 413,
     "open_issues_count": 2,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "HadiKhoirudin/Qualcomm-Tool",
@@ -43,27 +49,27 @@
   },
   {
     "full_name": "HandsomeMod/HandsomeMod",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 17,
     "forks_count": 105
   },
   {
     "full_name": "P1sec/QCSuper",
-    "stargazers_count": 1630,
+    "stargazers_count": 1632,
     "open_issues_count": 121,
-    "forks_count": 280
+    "forks_count": 279
   },
   {
     "full_name": "apple/container",
-    "stargazers_count": 48459,
-    "open_issues_count": 490,
-    "forks_count": 1591
+    "stargazers_count": 48609,
+    "open_issues_count": 493,
+    "forks_count": 1665
   },
   {
     "full_name": "RightNow-AI/openfang",
-    "stargazers_count": 18070,
-    "open_issues_count": 114,
-    "forks_count": 2286
+    "stargazers_count": 18077,
+    "open_issues_count": 116,
+    "forks_count": 2285
   },
   {
     "full_name": "mobile-insight/mobileinsight-mobile",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "signerless/llm-checker",
-    "stargazers_count": 2875,
+    "stargazers_count": 2878,
     "open_issues_count": 5,
-    "forks_count": 194
+    "forks_count": 196
   },
   {
     "full_name": "tdcolvin/NetworkTypeDetector",
@@ -86,97 +92,91 @@
   {
     "full_name": "zamojski/TowerCollector",
     "stargazers_count": 342,
-    "open_issues_count": 64,
+    "open_issues_count": 63,
     "forks_count": 43
   },
   {
     "full_name": "nushell/nu_scripts",
-    "stargazers_count": 1273,
+    "stargazers_count": 1274,
     "open_issues_count": 41,
-    "forks_count": 323
+    "forks_count": 324
   },
   {
     "full_name": "tw93/Mole",
-    "stargazers_count": 60873,
-    "open_issues_count": 29,
-    "forks_count": 2159
+    "stargazers_count": 61695,
+    "open_issues_count": 5,
+    "forks_count": 2178
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 40125,
-    "open_issues_count": 1415,
-    "forks_count": 2198
+    "stargazers_count": 40173,
+    "open_issues_count": 1402,
+    "forks_count": 2200
   },
   {
     "full_name": "dylanaraps/pure-bash-bible",
-    "stargazers_count": 41728,
+    "stargazers_count": 41727,
     "open_issues_count": 62,
-    "forks_count": 3635
+    "forks_count": 3637
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 170393,
-    "open_issues_count": 830,
-    "forks_count": 12353
+    "stargazers_count": 171279,
+    "open_issues_count": 840,
+    "forks_count": 12462
   },
   {
     "full_name": "timschneeb/awesome-shizuku",
-    "stargazers_count": 9696,
+    "stargazers_count": 9723,
     "open_issues_count": 1,
     "forks_count": 260
   },
   {
     "full_name": "timschneeb/changelog-awesome-shizuku",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "microsoft/vscode-cpptools",
-    "stargazers_count": 6141,
-    "open_issues_count": 1413,
+    "stargazers_count": 6143,
+    "open_issues_count": 1415,
     "forks_count": 1736
   },
   {
     "full_name": "basecamp/trix",
-    "stargazers_count": 19986,
+    "stargazers_count": 19988,
     "open_issues_count": 182,
-    "forks_count": 1135
+    "forks_count": 1134
   },
   {
     "full_name": "zeroclaw-labs/zeroclaw",
-    "stargazers_count": 32453,
-    "open_issues_count": 660,
-    "forks_count": 4853
+    "stargazers_count": 32489,
+    "open_issues_count": 712,
+    "forks_count": 4862
   },
   {
     "full_name": "awsdataarchitect/kiro-best-practices",
     "stargazers_count": 212,
     "open_issues_count": 0,
-    "forks_count": 54
+    "forks_count": 53
   },
   {
     "full_name": "hesreallyhim/awesome-claude-code",
-    "stargazers_count": 51365,
-    "open_issues_count": 749,
-    "forks_count": 4467
+    "stargazers_count": 51609,
+    "open_issues_count": 778,
+    "forks_count": 4494
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 58975,
-    "open_issues_count": 261,
-    "forks_count": 3175
+    "stargazers_count": 59154,
+    "open_issues_count": 256,
+    "forks_count": 3205
   },
   {
     "full_name": "containrrr/watchtower",
-    "stargazers_count": 24701,
+    "stargazers_count": 24697,
     "open_issues_count": 218,
-    "forks_count": 1146
-  },
-  {
-    "full_name": "dgtlmoon/changedetection.io",
-    "stargazers_count": 32562,
-    "open_issues_count": 366,
-    "forks_count": 1905
+    "forks_count": 1148
   }
 ]
