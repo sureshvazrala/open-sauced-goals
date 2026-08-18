@@ -1,25 +1,25 @@
 [
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 7340,
-    "open_issues_count": 274,
-    "forks_count": 328
+    "stargazers_count": 7373,
+    "open_issues_count": 278,
+    "forks_count": 329
   },
   {
     "full_name": "OliveTin/OliveTin",
-    "stargazers_count": 3751,
-    "open_issues_count": 19,
-    "forks_count": 130
+    "stargazers_count": 3756,
+    "open_issues_count": 20,
+    "forks_count": 131
   },
   {
     "full_name": "TechnitiumSoftware/DnsServer",
-    "stargazers_count": 9515,
-    "open_issues_count": 164,
-    "forks_count": 760
+    "stargazers_count": 9538,
+    "open_issues_count": 166,
+    "forks_count": 761
   },
   {
     "full_name": "osmocom/pysim",
-    "stargazers_count": 575,
+    "stargazers_count": 574,
     "open_issues_count": 1,
     "forks_count": 182
   },
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "topjohnwu/Magisk",
-    "stargazers_count": 62193,
-    "open_issues_count": 62,
-    "forks_count": 18286
+    "stargazers_count": 62276,
+    "open_issues_count": 61,
+    "forks_count": 18329
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 17743,
-    "open_issues_count": 16,
-    "forks_count": 1018
+    "stargazers_count": 17740,
+    "open_issues_count": 18,
+    "forks_count": 1020
   },
   {
     "full_name": "seemoo-lab/CellGuard",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "apple/container",
-    "stargazers_count": 48936,
-    "open_issues_count": 474,
-    "forks_count": 1717
+    "stargazers_count": 49028,
+    "open_issues_count": 487,
+    "forks_count": 1720
   },
   {
     "full_name": "RightNow-AI/openfang",
-    "stargazers_count": 18111,
-    "open_issues_count": 118,
-    "forks_count": 2284
+    "stargazers_count": 18119,
+    "open_issues_count": 115,
+    "forks_count": 2283
   },
   {
     "full_name": "mobile-insight/mobileinsight-mobile",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "signerless/llm-checker",
-    "stargazers_count": 2894,
+    "stargazers_count": 2908,
     "open_issues_count": 5,
     "forks_count": 197
   },
@@ -115,33 +115,33 @@
   },
   {
     "full_name": "tw93/Mole",
-    "stargazers_count": 63445,
-    "open_issues_count": 17,
-    "forks_count": 2236
+    "stargazers_count": 63963,
+    "open_issues_count": 3,
+    "forks_count": 2252
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 40260,
-    "open_issues_count": 1409,
-    "forks_count": 2207
+    "stargazers_count": 40278,
+    "open_issues_count": 1424,
+    "forks_count": 2210
   },
   {
     "full_name": "dylanaraps/pure-bash-bible",
     "stargazers_count": 41717,
     "open_issues_count": 62,
-    "forks_count": 3636
+    "forks_count": 3639
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 173627,
-    "open_issues_count": 857,
-    "forks_count": 12678
+    "stargazers_count": 174298,
+    "open_issues_count": 868,
+    "forks_count": 12743
   },
   {
     "full_name": "timschneeb/awesome-shizuku",
-    "stargazers_count": 9805,
+    "stargazers_count": 9834,
     "open_issues_count": 1,
-    "forks_count": 261
+    "forks_count": 260
   },
   {
     "full_name": "timschneeb/changelog-awesome-shizuku",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "microsoft/vscode-cpptools",
-    "stargazers_count": 6149,
-    "open_issues_count": 1420,
-    "forks_count": 1738
+    "stargazers_count": 6147,
+    "open_issues_count": 1418,
+    "forks_count": 1743
   },
   {
     "full_name": "basecamp/trix",
-    "stargazers_count": 19992,
+    "stargazers_count": 19999,
     "open_issues_count": 184,
-    "forks_count": 1132
+    "forks_count": 1133
   },
   {
     "full_name": "zeroclaw-labs/zeroclaw",
-    "stargazers_count": 32569,
-    "open_issues_count": 698,
-    "forks_count": 4892
+    "stargazers_count": 32609,
+    "open_issues_count": 726,
+    "forks_count": 4897
   },
   {
     "full_name": "awsdataarchitect/kiro-best-practices",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 0,
     "forks_count": 53
   },
   {
     "full_name": "hesreallyhim/awesome-claude-code",
-    "stargazers_count": 52271,
-    "open_issues_count": 843,
-    "forks_count": 4567
+    "stargazers_count": 52507,
+    "open_issues_count": 877,
+    "forks_count": 4592
   }
 ]
