@@ -1,20 +1,20 @@
 [
   {
     "full_name": "catppuccin/tmux",
-    "stargazers_count": 3154,
+    "stargazers_count": 3156,
     "open_issues_count": 41,
     "forks_count": 840
   },
   {
     "full_name": "catppuccin/nvim",
-    "stargazers_count": 7588,
+    "stargazers_count": 7592,
     "open_issues_count": 11,
-    "forks_count": 338
+    "forks_count": 339
   },
   {
     "full_name": "catppuccin/catppuccin",
-    "stargazers_count": 19684,
-    "open_issues_count": 117,
+    "stargazers_count": 19701,
+    "open_issues_count": 118,
     "forks_count": 352
   },
   {
@@ -25,57 +25,57 @@
   },
   {
     "full_name": "alam00000/bentopdf",
-    "stargazers_count": 14795,
-    "open_issues_count": 152,
-    "forks_count": 1262
+    "stargazers_count": 14864,
+    "open_issues_count": 153,
+    "forks_count": 1275
   },
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 7394,
-    "open_issues_count": 284,
-    "forks_count": 334
+    "stargazers_count": 7410,
+    "open_issues_count": 286,
+    "forks_count": 336
   },
   {
     "full_name": "OliveTin/OliveTin",
-    "stargazers_count": 3767,
-    "open_issues_count": 21,
+    "stargazers_count": 3775,
+    "open_issues_count": 22,
     "forks_count": 135
   },
   {
     "full_name": "TechnitiumSoftware/DnsServer",
-    "stargazers_count": 9583,
-    "open_issues_count": 173,
-    "forks_count": 765
+    "stargazers_count": 9716,
+    "open_issues_count": 170,
+    "forks_count": 774
   },
   {
     "full_name": "osmocom/pysim",
-    "stargazers_count": 575,
+    "stargazers_count": 576,
     "open_issues_count": 1,
-    "forks_count": 182
+    "forks_count": 185
   },
   {
     "full_name": "fgsect/scat",
-    "stargazers_count": 526,
+    "stargazers_count": 527,
     "open_issues_count": 16,
     "forks_count": 130
   },
   {
     "full_name": "topjohnwu/Magisk",
-    "stargazers_count": 62411,
-    "open_issues_count": 44,
-    "forks_count": 18392
+    "stargazers_count": 62478,
+    "open_issues_count": 38,
+    "forks_count": 18421
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 17752,
-    "open_issues_count": 16,
-    "forks_count": 1022
+    "stargazers_count": 17763,
+    "open_issues_count": 18,
+    "forks_count": 1023
   },
   {
     "full_name": "seemoo-lab/CellGuard",
-    "stargazers_count": 415,
-    "open_issues_count": 2,
-    "forks_count": 42
+    "stargazers_count": 426,
+    "open_issues_count": 1,
+    "forks_count": 44
   },
   {
     "full_name": "HadiKhoirudin/Qualcomm-Tool",
@@ -87,42 +87,42 @@
     "full_name": "iusmac/RevampedFMRadio",
     "stargazers_count": 102,
     "open_issues_count": 10,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "HandsomeMod/HandsomeMod",
     "stargazers_count": 402,
     "open_issues_count": 17,
-    "forks_count": 104
+    "forks_count": 105
   },
   {
     "full_name": "P1sec/QCSuper",
-    "stargazers_count": 1641,
+    "stargazers_count": 1643,
     "open_issues_count": 121,
     "forks_count": 279
   },
   {
     "full_name": "apple/container",
-    "stargazers_count": 49373,
-    "open_issues_count": 491,
-    "forks_count": 1741
+    "stargazers_count": 49473,
+    "open_issues_count": 536,
+    "forks_count": 1753
   },
   {
     "full_name": "RightNow-AI/openfang",
-    "stargazers_count": 18135,
-    "open_issues_count": 116,
+    "stargazers_count": 18140,
+    "open_issues_count": 114,
     "forks_count": 2287
   },
   {
     "full_name": "mobile-insight/mobileinsight-mobile",
-    "stargazers_count": 102,
+    "stargazers_count": 104,
     "open_issues_count": 24,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "signerless/llm-checker",
-    "stargazers_count": 2926,
-    "open_issues_count": 6,
+    "stargazers_count": 2938,
+    "open_issues_count": 8,
     "forks_count": 197
   },
   {
@@ -139,43 +139,43 @@
   },
   {
     "full_name": "nushell/nu_scripts",
-    "stargazers_count": 1283,
+    "stargazers_count": 1285,
     "open_issues_count": 43,
     "forks_count": 324
   },
   {
     "full_name": "tw93/Mole",
-    "stargazers_count": 64820,
-    "open_issues_count": 6,
-    "forks_count": 2273
+    "stargazers_count": 65173,
+    "open_issues_count": 0,
+    "forks_count": 2285
   },
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 40328,
-    "open_issues_count": 1435,
-    "forks_count": 2216
+    "stargazers_count": 40356,
+    "open_issues_count": 1432,
+    "forks_count": 2223
   },
   {
     "full_name": "dylanaraps/pure-bash-bible",
-    "stargazers_count": 41718,
+    "stargazers_count": 41723,
     "open_issues_count": 62,
-    "forks_count": 3638
+    "forks_count": 3643
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 176043,
-    "open_issues_count": 890,
-    "forks_count": 12908
+    "stargazers_count": 176778,
+    "open_issues_count": 903,
+    "forks_count": 12985
   },
   {
     "full_name": "timschneeb/awesome-shizuku",
-    "stargazers_count": 9898,
-    "open_issues_count": 1,
-    "forks_count": 261
+    "stargazers_count": 9928,
+    "open_issues_count": 2,
+    "forks_count": 262
   },
   {
     "full_name": "timschneeb/changelog-awesome-shizuku",
-    "stargazers_count": 89,
+    "stargazers_count": 91,
     "open_issues_count": 0,
     "forks_count": 0
   }
